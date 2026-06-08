@@ -22,10 +22,6 @@ pagerSize = 10
   Title = "매일 한 가지"
   Content = "매일 조금씩 — 영어 공부와 카메라 공부 기록"
 
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/yongjun-choi"
-
 [menu]
   [[menu.main]]
     identifier = "english"
