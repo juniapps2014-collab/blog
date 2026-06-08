@@ -1,0 +1,44 @@
+baseURL = "https://example.com"
+locale = "ko"
+title = "매일 한 가지"
+theme = "PaperMod"
+defaultContentLanguage = "ko"
+hasCJKLanguage = true
+
+[pagination]
+pagerSize = 10
+
+[params]
+  author = "Yongjun Choi"
+  description = "영어 공부 & 카메라 공부 기록"
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+[params.homeInfoParams]
+  Title = "매일 한 가지"
+  Content = "매일 조금씩 — 영어 공부와 카메라 공부 기록"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/yongjun-choi"
+
+[menu]
+  [[menu.main]]
+    identifier = "english"
+    name = "English"
+    url = "/english/"
+    weight = 10
+  [[menu.main]]
+    identifier = "camera"
+    name = "Camera"
+    url = "/camera/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 30
