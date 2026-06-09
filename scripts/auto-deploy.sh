@@ -9,16 +9,17 @@ log() {
 
 cd "$REPO_DIR" || { log "ERROR: Cannot cd to repo dir"; exit 1; }
 
-# Check for new or changed content files
-git add hugo-site/content/
+# Stage all changes under hugo-site (content, static, assets, layouts, config)
+git add hugo-site/
 
 if git diff --cached --quiet; then
-  log "No new content to deploy"
+  log "No changes to deploy"
   exit 0
 fi
 
+CHANGED=$(git diff --cached --name-only | wc -l | tr -d ' ')
 DATE=$(date '+%Y-%m-%d')
-git commit -m "Auto: daily content ${DATE}"
+git commit -m "Auto: deploy ${CHANGED} file(s) on ${DATE}"
 
 if git push origin main; then
   log "SUCCESS: Pushed to GitHub — GitHub Actions will deploy"
