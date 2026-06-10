@@ -1,5 +1,5 @@
 ---
-title: "Daily English Study — 2026년 6월 10일"
+title: "📚 Daily English Study — 2026년 6월 10일 (수요일)"
 date: 2026-06-10
 categories: ["english"]
 tags: ["grammar", "english"]
