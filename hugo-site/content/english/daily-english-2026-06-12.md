@@ -1,5 +1,5 @@
 ---
-title: "Daily English Study — 2026년 6월 12일"
+title: "📚 Daily English Study — 2026년 6월 12일"
 date: 2026-06-12
 categories: ["english"]
 tags: ["grammar", "english"]
@@ -42,28 +42,30 @@ tags: ["grammar", "english"]
 
 ## 🗣️ 오늘의 미국 영어 표현 10가지
 
-| # | 표현 | 의미 | 예시 |
-|---|------|------|------|
-| 1 | **That tracks.** | 말이 되네 / 납득이 가 | "He was late again?" "That tracks." |
-| 2 | **I'm swamped.** | 너무 바빠 / 일에 치여 있어 | "Can you join the call?" "Sorry, I'm totally swamped right now." |
-| 3 | **Let's touch base.** | 나중에 연락하자 / 한번 얘기하자 | "Let's touch base after the meeting." |
-| 4 | **No worries.** | 걱정 마 / 괜찮아 | "Sorry I'm late." "No worries at all!" |
-| 5 | **I'm on the fence.** | 아직 결정 못 했어 / 판단 보류 중이야 | "Are you going to the event?" "I'm still on the fence." |
-| 6 | **That's a stretch.** | 그건 좀 억지야 / 무리가 있어 | "Maybe he did it on purpose." "That's a stretch." |
-| 7 | **To be fair...** | 공평하게 말하자면 / 솔직히 말하면 | "To be fair, he did warn us about this." |
-| 8 | **I'll take a rain check.** | 다음에 할게 / 이번엔 넘길게 | "Want to grab lunch?" "I'll take a rain check — too busy today." |
-| 9 | **It's not rocket science.** | 그렇게 어려운 건 아니야 | "How hard can it be?" "Exactly, it's not rocket science." |
-| 10 | **We're on the same page.** | 우리 같은 생각이야 / 이해가 일치해 | "Good, so we're all on the same page about the deadline?" |
+| #   | 표현                         | 의미                                 | 예시                                                             |
+| --- | ---------------------------- | ------------------------------------ | ---------------------------------------------------------------- |
+| 1   | **That tracks.**             | 말이 되네 / 납득이 가                | "He was late again?" "That tracks."                              |
+| 2   | **I'm swamped.**             | 너무 바빠 / 일에 치여 있어           | "Can you join the call?" "Sorry, I'm totally swamped right now." |
+| 3   | **Let's touch base.**        | 나중에 연락하자 / 한번 얘기하자      | "Let's touch base after the meeting."                            |
+| 4   | **No worries.**              | 걱정 마 / 괜찮아                     | "Sorry I'm late." "No worries at all!"                           |
+| 5   | **I'm on the fence.**        | 아직 결정 못 했어 / 판단 보류 중이야 | "Are you going to the event?" "I'm still on the fence."          |
+| 6   | **That's a stretch.**        | 그건 좀 억지야 / 무리가 있어         | "Maybe he did it on purpose." "That's a stretch."                |
+| 7   | **To be fair...**            | 공평하게 말하자면 / 솔직히 말하면    | "To be fair, he did warn us about this."                         |
+| 8   | **I'll take a rain check.**  | 다음에 할게 / 이번엔 넘길게          | "Want to grab lunch?" "I'll take a rain check — too busy today." |
+| 9   | **It's not rocket science.** | 그렇게 어려운 건 아니야              | "How hard can it be?" "Exactly, it's not rocket science."        |
+| 10  | **We're on the same page.**  | 우리 같은 생각이야 / 이해가 일치해   | "Good, so we're all on the same page about the deadline?"        |
 
 ---
 
 ## 🔧 오늘의 구동사 (Phrasal Verbs) 5가지
 
 ### 1. **Figure out** — 알아내다, 이해하다
+
 > "I finally **figured out** why the code wasn't working."
 > → 코드가 왜 작동 안 했는지 드디어 알아냈어.
 
 ### 2. **Run into** — 우연히 만나다 / (문제에) 부딪히다
+
 > "We **ran into** some issues during deployment."
 > → 배포 중에 몇 가지 문제에 부딪혔어.
 >
@@ -71,6 +73,7 @@ tags: ["grammar", "english"]
 > → 오늘 아침 커피숍에서 Jake를 우연히 만났어.
 
 ### 3. **Back up** — 지지하다 / 백업하다 / 뒤로 물러서다
+
 > "Can you **back up** your claims with data?"
 > → 데이터로 주장을 뒷받침할 수 있어?
 >
@@ -78,13 +81,15 @@ tags: ["grammar", "english"]
 > → 업데이트 전에 파일 백업해 둬.
 
 ### 4. **Bring up** — 언급하다, 꺼내다
+
 > "She **brought up** a great point in today's meeting."
 > → 그녀가 오늘 회의에서 좋은 포인트를 꺼냈어.
 
 ### 5. **Cut down on** — 줄이다
+
 > "I'm trying to **cut down on** coffee and get more sleep."
 > → 커피를 줄이고 잠을 더 자려고 노력 중이야.
 
 ---
 
-*Happy studying! 🎉 내일도 계속됩니다.*
+_Happy studying! 🎉 내일도 계속됩니다._
