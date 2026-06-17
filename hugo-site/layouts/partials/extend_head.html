@@ -1,2 +1,46 @@
 <link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | absURL }}">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4946873521105593" crossorigin="anonymous"></script>
+
+{{- $sectionHero := "" }}
+{{- if eq .Section "english" }}{{ $sectionHero = "english-hero.jpg" }}
+{{- else if eq .Section "camera" }}{{ $sectionHero = "camera-hero.jpg" }}
+{{- else if eq .Section "claude" }}{{ $sectionHero = "claude-hero.jpg" }}
+{{- end }}
+
+{{- if and $sectionHero (eq .Kind "section") }}
+<style>
+.page-header {
+    background-image: url('{{ (printf "/blog/images/%s" $sectionHero) }}');
+    background-size: cover;
+    background-position: center 40%;
+    position: relative;
+    padding: 4rem 2.5rem;
+    border-radius: 14px;
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+}
+.page-header::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+    z-index: 0;
+}
+.page-header > * {
+    position: relative;
+    z-index: 1;
+}
+.page-header h1 {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+.page-header .post-description {
+    color: rgba(255, 255, 255, 0.85);
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+    margin-top: 0.5rem;
+}
+</style>
+{{- end }}

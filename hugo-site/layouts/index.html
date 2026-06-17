@@ -1,0 +1,41 @@
+{{- define "main" }}
+
+{{- partial "home_info.html" . }}
+
+{{- $sections := slice
+  (dict "name" "English"  "type" "english"  "url" "/english/"  "emoji" "📖")
+  (dict "name" "Camera"   "type" "camera"   "url" "/camera/"   "emoji" "📷")
+  (dict "name" "Claude"   "type" "claude"   "url" "/claude/"   "emoji" "🤖")
+}}
+
+{{- range $sections }}
+  {{- $posts := where site.RegularPages "Type" .type }}
+  {{- if gt (len $posts) 0 }}
+  <section class="home-section">
+    <div class="home-section-header">
+      <h2>{{ .emoji }}&nbsp;{{ .name }}</h2>
+      <a class="home-section-more" href="{{ .url }}">더 보기 →</a>
+    </div>
+    <div class="home-section-list">
+      {{- range first 3 $posts }}
+      <article class="post-entry">
+        <header class="entry-header">
+          <h2 class="entry-hint-parent">{{- .Title }}</h2>
+        </header>
+        {{- if (ne (.Param "hideSummary") true) }}
+        <div class="entry-content">
+          <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+        </div>
+        {{- end }}
+        <footer class="entry-footer">
+          {{- partial "post_meta.html" . -}}
+        </footer>
+        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+      </article>
+      {{- end }}
+    </div>
+  </section>
+  {{- end }}
+{{- end }}
+
+{{- end }}

@@ -8,6 +8,10 @@ hasCJKLanguage = true
 [pagination]
 pagerSize = 10
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [params]
   author = "Yongjun Choi"
   description = "영어 공부 & 카메라 공부 기록"
@@ -17,6 +21,9 @@ pagerSize = 10
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
+
+[params.taxonomy]
+  renderTermEvenIfEmpty = true
 
 [params.homeInfoParams]
   Title = "매일 한 가지"
@@ -33,6 +40,11 @@ pagerSize = 10
     name = "Camera"
     url = "/camera/"
     weight = 20
+  [[menu.main]]
+    identifier = "claude"
+    name = "Claude"
+    url = "/claude/"
+    weight = 25
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
