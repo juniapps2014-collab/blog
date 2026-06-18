@@ -65,7 +65,7 @@ claude-curriculum/
 
 - [x] Day 01 — Claude란 무엇인가?
 - [x] Day 02 — 기본 프롬프트 작성법
-- [ ] Day 03 — 컨텍스트와 대화 흐름
+- [x] Day 03 — 컨텍스트와 대화 흐름
 - [ ] Day 04 — 출력 형식 제어
 - [ ] Day 05 — Claude의 한계와 특성
 - [ ] Day 06 — 역할 지정 (Role Prompting)
