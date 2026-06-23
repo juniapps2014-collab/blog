@@ -66,10 +66,10 @@ claude-curriculum/
 - [x] Day 01 — Claude란 무엇인가?
 - [x] Day 02 — 기본 프롬프트 작성법
 - [x] Day 03 — 컨텍스트와 대화 흐름
-- [ ] Day 04 — 출력 형식 제어
-- [ ] Day 05 — Claude의 한계와 특성
-- [ ] Day 06 — 역할 지정 (Role Prompting)
-- [ ] Day 07 — Few-shot / Chain-of-Thought
+- [x] Day 04 — 출력 형식 제어
+- [x] Day 05 — Claude의 한계와 특성
+- [x] Day 06 — 역할 지정 (Role Prompting)
+- [x] Day 07 — Few-shot / Chain-of-Thought
 - [ ] Day 08 — XML 태그 활용
 - [ ] Day 09 — 긴 문서 처리
 - [ ] Day 10 — 코드 생성 및 리뷰
