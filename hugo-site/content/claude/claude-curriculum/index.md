@@ -70,7 +70,7 @@ claude-curriculum/
 - [x] Day 05 — Claude의 한계와 특성
 - [x] Day 06 — 역할 지정 (Role Prompting)
 - [x] Day 07 — Few-shot / Chain-of-Thought
-- [ ] Day 08 — XML 태그 활용
+- [x] Day 08 — XML 태그 활용
 - [ ] Day 09 — 긴 문서 처리
 - [ ] Day 10 — 코드 생성 및 리뷰
 - [ ] Day 11 — 다단계 추론 패턴
