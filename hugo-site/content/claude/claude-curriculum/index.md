@@ -72,7 +72,7 @@ claude-curriculum/
 - [x] Day 07 — Few-shot / Chain-of-Thought
 - [x] Day 08 — XML 태그 활용
 - [x] Day 09 — 긴 문서 처리
-- [ ] Day 10 — 코드 생성 및 리뷰
+- [x] Day 10 — 코드 생성 및 리뷰
 - [ ] Day 11 — 다단계 추론 패턴
 - [ ] Day 12 — 프롬프트 평가 및 개선
 - [ ] Day 13 — Anthropic API 기초
