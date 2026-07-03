@@ -74,8 +74,8 @@ claude-curriculum/
 - [x] Day 09 — 긴 문서 처리
 - [x] Day 10 — 코드 생성 및 리뷰
 - [x] Day 11 — 다단계 추론 패턴
-- [ ] Day 12 — 프롬프트 평가 및 개선
-- [ ] Day 13 — Anthropic API 기초
+- [x] Day 12 — 프롬프트 평가 및 개선
+- [x] Day 13 — Anthropic API 기초
 - [ ] Day 14 — Messages API 파라미터 심화
 - [ ] Day 15 — Streaming 응답 처리
 - [ ] Day 16 — Tool Use (Function Calling)
