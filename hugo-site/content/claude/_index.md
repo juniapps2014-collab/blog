@@ -69,7 +69,7 @@ description: "기초부터 고급 프롬프트 엔지니어링 및 API 활용까
 - [x] Day 12 — 프롬프트 평가 및 개선
 - [x] Day 13 — Anthropic API 기초
 - [x] Day 14 — Messages API 파라미터 심화
-- [ ] Day 15 — Streaming 응답 처리
+- [x] Day 15 — Streaming 응답 처리
 - [ ] Day 16 — Tool Use (Function Calling)
 - [ ] Day 17 — Vision API
 - [ ] Day 18 — 비용 최적화
