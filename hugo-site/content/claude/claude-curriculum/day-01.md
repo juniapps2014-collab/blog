@@ -1,3 +1,9 @@
+---
+title: "Day 01 — Claude란 무엇인가?"
+date: 2026-06-21
+weight: 1
+---
+
 # Day 01 — Claude란 무엇인가?
 
 > **Phase 1: 기초** | 예상 학습 시간: 30분

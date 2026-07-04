@@ -1,3 +1,9 @@
+---
+title: "Day 07 — Few-shot / Chain-of-Thought 프롬프팅"
+date: 2026-06-27
+weight: 7
+---
+
 # Day 07 — Few-shot / Chain-of-Thought 프롬프팅
 
 > **Phase 2: 프롬프트 엔지니어링** | 예상 학습 시간: 30분

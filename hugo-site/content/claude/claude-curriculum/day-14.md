@@ -1,3 +1,9 @@
+---
+title: "Day 14 — Messages API 파라미터 심화"
+date: 2026-07-04
+weight: 14
+---
+
 # Day 14 — Messages API 파라미터 심화
 
 > **Phase 3: API 활용** | 예상 학습 시간: 30분

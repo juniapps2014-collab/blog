@@ -1,3 +1,9 @@
+---
+title: "Day 05 — Claude의 한계와 특성 이해"
+date: 2026-06-25
+weight: 5
+---
+
 # Day 05 — Claude의 한계와 특성 이해
 
 > **Phase 1: 기초** | 예상 학습 시간: 30분

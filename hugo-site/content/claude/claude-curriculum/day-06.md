@@ -1,3 +1,9 @@
+---
+title: "Day 06 — 역할 지정 (Role Prompting)"
+date: 2026-06-26
+weight: 6
+---
+
 # Day 06 — 역할 지정 (Role Prompting)
 
 > **Phase 2: 프롬프트 엔지니어링** | 예상 학습 시간: 30분

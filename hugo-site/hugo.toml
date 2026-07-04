@@ -46,6 +46,11 @@ pagerSize = 10
     url = "/claude/"
     weight = 25
   [[menu.main]]
+    identifier = "ai-engineer"
+    name = "AI 엔지니어"
+    url = "/ai-engineer/"
+    weight = 27
+  [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"

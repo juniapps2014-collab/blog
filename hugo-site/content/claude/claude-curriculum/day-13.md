@@ -1,3 +1,9 @@
+---
+title: "Day 13 — Anthropic API 기초"
+date: 2026-07-03
+weight: 13
+---
+
 # Day 13 — Anthropic API 기초
 
 > **Phase 3: API 활용** | 예상 학습 시간: 30분
