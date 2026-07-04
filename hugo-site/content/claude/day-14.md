@@ -4,7 +4,6 @@ date: 2026-07-04
 weight: 14
 ---
 
-# Day 14 — Messages API 파라미터 심화
 
 > **Phase 3: API 활용** | 예상 학습 시간: 30분
 
@@ -128,4 +127,4 @@ response = client.messages.create(
 
 ---
 
-*⬅️ 이전: [Day 13](./day-13.md)  |  다음: [Day 15](./day-15.md) ➡️*
+*⬅️ 이전: [Day 13](../day-13/)  |  다음: [Day 15](../day-15/) ➡️*

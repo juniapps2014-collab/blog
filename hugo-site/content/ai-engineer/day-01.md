@@ -1,4 +1,8 @@
-# Day 01 — Python & Linux: AI 엔지니어의 개발 환경
+---
+title: "Day 01 — Python & Linux: AI 엔지니어의 개발 환경"
+date: 2026-07-04
+weight: 1
+---
 
 > **Phase 1: 기초** | 예상 학습 시간: 40분
 
@@ -108,4 +112,4 @@ __pycache__/
 
 ---
 
-*⬅️ 이전: —  |  다음: [Day 02 — Docker](./day-02.md) ➡️*
+*⬅️ 이전: —  |  다음: [Day 02 — Docker](../day-02/) ➡️*

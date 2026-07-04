@@ -4,7 +4,6 @@ date: 2026-06-28
 weight: 8
 ---
 
-# Day 08 — XML 태그 활용
 
 > **Phase 2: 프롬프트 엔지니어링** | 예상 학습 시간: 30분
 
@@ -199,4 +198,4 @@ message = client.messages.create(
 
 ---
 
-*⬅️ 이전: [Day 07 — Few-shot / Chain-of-Thought](./day-07.md)  |  다음: [Day 09 — 긴 문서 처리](./day-09.md) ➡️*
+*⬅️ 이전: [Day 07 — Few-shot / Chain-of-Thought](../day-07/)  |  다음: [Day 09 — 긴 문서 처리](../day-09/) ➡️*

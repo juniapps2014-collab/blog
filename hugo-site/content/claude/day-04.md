@@ -4,7 +4,6 @@ date: 2026-06-24
 weight: 4
 ---
 
-# Day 04 — 출력 형식 제어
 
 > **Phase 1: 기초** | 예상 학습 시간: 30분
 
@@ -175,4 +174,4 @@ response = client.messages.create(
 
 ---
 
-*⬅️ 이전: [Day 03 — 컨텍스트와 대화 흐름](./day-03.md)  |  다음: [Day 05 — Claude의 한계와 특성](./day-05.md) ➡️*
+*⬅️ 이전: [Day 03 — 컨텍스트와 대화 흐름](../day-03/)  |  다음: [Day 05 — Claude의 한계와 특성](../day-05/) ➡️*

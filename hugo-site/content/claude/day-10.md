@@ -4,7 +4,6 @@ date: 2026-06-30
 weight: 10
 ---
 
-# Day 10 — 코드 생성 및 리뷰 프롬프트
 
 > **Phase 2: 프롬프트 엔지니어링** | 예상 학습 시간: 30분
 
@@ -216,4 +215,4 @@ TypeError: unsupported operand type(s) for +: 'int' and 'str'
 
 ---
 
-*⬅️ 이전: [Day 09 — 긴 문서 처리](./day-09.md)  |  다음: [Day 11 — 다단계 추론 패턴](./day-11.md) ➡️*
+*⬅️ 이전: [Day 09 — 긴 문서 처리](../day-09/)  |  다음: [Day 11 — 다단계 추론 패턴](../day-11/) ➡️*

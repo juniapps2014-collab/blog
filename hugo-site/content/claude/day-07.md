@@ -4,7 +4,6 @@ date: 2026-06-27
 weight: 7
 ---
 
-# Day 07 — Few-shot / Chain-of-Thought 프롬프팅
 
 > **Phase 2: 프롬프트 엔지니어링** | 예상 학습 시간: 30분
 
@@ -197,4 +196,4 @@ response = client.messages.create(
 
 ---
 
-*⬅️ 이전: [Day 06 — 역할 지정 (Role Prompting)](./day-06.md)  |  다음: [Day 08 — XML 태그 활용](./day-08.md) ➡️*
+*⬅️ 이전: [Day 06 — 역할 지정 (Role Prompting)](../day-06/)  |  다음: [Day 08 — XML 태그 활용](../day-08/) ➡️*

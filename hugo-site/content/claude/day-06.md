@@ -4,7 +4,6 @@ date: 2026-06-26
 weight: 6
 ---
 
-# Day 06 — 역할 지정 (Role Prompting)
 
 > **Phase 2: 프롬프트 엔지니어링** | 예상 학습 시간: 30분
 
@@ -153,4 +152,4 @@ system_expert = """당신은 분산 메시징 시스템과 실시간 통신 프�
 
 ---
 
-*⬅️ 이전: [Day 05 — Claude의 한계와 특성](./day-05.md)  |  다음: [Day 07 — Few-shot / Chain-of-Thought](./day-07.md) ➡️*
+*⬅️ 이전: [Day 05 — Claude의 한계와 특성](../day-05/)  |  다음: [Day 07 — Few-shot / Chain-of-Thought](../day-07/) ➡️*

@@ -4,7 +4,6 @@ date: 2026-07-01
 weight: 11
 ---
 
-# Day 11 — 다단계 추론 패턴
 
 > **Phase 2: 프롬프트 엔지니어링** | 예상 학습 시간: 30분
 
@@ -136,7 +135,7 @@ print(final)
 
 다음은 세 패턴을 조합해 PR 코드 리뷰를 자동화하는 예시입니다.
 
-```python
+````python
 import anthropic
 
 client = anthropic.Anthropic()
@@ -214,7 +213,7 @@ for step, content in review.items():
     print(f"=== {step.upper()} ===")
     print(content)
     print()
-```
+````
 
 > 💡 **실무 팁**: 각 단계 사이에 검증 로직을 추가하세요. 예를 들어 Step 1의 요약이 너무 짧으면 (`len(summary) < 50`) 재시도하는 방어 코드를 넣으면 파이프라인 안정성이 높아집니다.
 
@@ -238,4 +237,4 @@ for step, content in review.items():
 
 ---
 
-*⬅️ 이전: [Day 10 — 코드 생성 및 리뷰](./day-10.md)  |  다음: [Day 12 — 프롬프트 평가 및 개선](./day-12.md) ➡️*
+*⬅️ 이전: [Day 10 — 코드 생성 및 리뷰](../day-10/)  |  다음: [Day 12 — 프롬프트 평가 및 개선](../day-12/) ➡️*

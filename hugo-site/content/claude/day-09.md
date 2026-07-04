@@ -4,7 +4,6 @@ date: 2026-06-29
 weight: 9
 ---
 
-# Day 09 — 긴 문서 처리
 
 > **Phase 2: 프롬프트 엔지니어링** | 예상 학습 시간: 30분
 
@@ -239,4 +238,4 @@ def process_long_document(document: str, question: str) -> str:
 
 ---
 
-*⬅️ 이전: [Day 08 — XML 태그 활용](./day-08.md)  |  다음: [Day 10 — 코드 생성 및 리뷰](./day-10.md) ➡️*
+*⬅️ 이전: [Day 08 — XML 태그 활용](../day-08/)  |  다음: [Day 10 — 코드 생성 및 리뷰](../day-10/) ➡️*

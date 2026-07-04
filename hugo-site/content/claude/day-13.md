@@ -4,7 +4,6 @@ date: 2026-07-03
 weight: 13
 ---
 
-# Day 13 — Anthropic API 기초
 
 > **Phase 3: API 활용** | 예상 학습 시간: 30분
 
@@ -136,4 +135,4 @@ print(response.usage)         # {"input_tokens": ..., "output_tokens": ...}
 
 ---
 
-*⬅️ 이전: [Day 12](./day-12.md)  |  다음: [Day 14](./day-14.md) ➡️*
+*⬅️ 이전: [Day 12](../day-12/)  |  다음: [Day 14](../day-14/) ➡️*
