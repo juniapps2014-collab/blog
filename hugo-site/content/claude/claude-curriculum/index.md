@@ -76,7 +76,7 @@ claude-curriculum/
 - [x] Day 11 — 다단계 추론 패턴
 - [x] Day 12 — 프롬프트 평가 및 개선
 - [x] Day 13 — Anthropic API 기초
-- [ ] Day 14 — Messages API 파라미터 심화
+- [x] Day 14 — Messages API 파라미터 심화
 - [ ] Day 15 — Streaming 응답 처리
 - [ ] Day 16 — Tool Use (Function Calling)
 - [ ] Day 17 — Vision API
