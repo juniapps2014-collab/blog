@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 788" width="1400" height="788">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1024"/>
+      <stop offset="45%" stop-color="#131a3a"/>
+      <stop offset="100%" stop-color="#1e1147"/>
+    </linearGradient>
+    <radialGradient id="glowPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nodeFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="788" fill="url(#bg)"/>
+  <circle cx="1080" cy="180" r="360" fill="url(#glowPurple)"/>
+  <circle cx="280" cy="620" r="320" fill="url(#glowCyan)"/>
+
+  <!-- faint grid -->
+  <g stroke="#ffffff" stroke-opacity="0.05" stroke-width="1">
+    <path d="M0,657 H1400"/>
+    <path d="M0,526 H1400"/>
+    <path d="M0,394 H1400"/>
+    <path d="M0,263 H1400"/>
+    <path d="M0,131 H1400"/>
+    <path d="M175,0 V788"/>
+    <path d="M350,0 V788"/>
+    <path d="M525,0 V788"/>
+    <path d="M700,0 V788"/>
+    <path d="M875,0 V788"/>
+    <path d="M1050,0 V788"/>
+    <path d="M1225,0 V788"/>
+  </g>
+
+  <!-- neural network graph -->
+  <g stroke="#8fa2ff" stroke-opacity="0.45" stroke-width="1.6" fill="none">
+    <path d="M240,300 L470,190 M240,300 L470,400 M240,300 L470,560"/>
+    <path d="M240,470 L470,190 M240,470 L470,400 M240,470 L470,560"/>
+    <path d="M470,190 L760,260 M470,190 L760,420 M470,400 L760,260 M470,400 L760,420 M470,400 L760,560 M470,560 L760,420 M470,560 L760,560"/>
+    <path d="M760,260 L1010,220 M760,260 L1010,380 M760,420 L1010,220 M760,420 L1010,380 M760,420 L1010,500 M760,560 L1010,380 M760,560 L1010,500"/>
+    <path d="M1010,220 L1190,300 M1010,380 L1190,300 M1010,380 L1190,470 M1010,500 L1190,470"/>
+  </g>
+
+  <g fill="url(#nodeFill)">
+    <circle cx="240" cy="300" r="9"/>
+    <circle cx="240" cy="470" r="9"/>
+    <circle cx="470" cy="190" r="8"/>
+    <circle cx="470" cy="400" r="8"/>
+    <circle cx="470" cy="560" r="8"/>
+    <circle cx="760" cy="260" r="8"/>
+    <circle cx="760" cy="420" r="8"/>
+    <circle cx="760" cy="560" r="8"/>
+    <circle cx="1010" cy="220" r="8"/>
+    <circle cx="1010" cy="380" r="8"/>
+    <circle cx="1010" cy="500" r="8"/>
+    <circle cx="1190" cy="300" r="10"/>
+    <circle cx="1190" cy="470" r="10"/>
+  </g>
+
+  <g fill="#e9d5ff" opacity="0.9">
+    <circle cx="240" cy="300" r="3"/>
+    <circle cx="240" cy="470" r="3"/>
+    <circle cx="1190" cy="300" r="3.5"/>
+    <circle cx="1190" cy="470" r="3.5"/>
+  </g>
+
+  <!-- subtle chip / bracket motif -->
+  <g transform="translate(90,600)" opacity="0.5" fill="none" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round">
+    <path d="M0,0 L-24,20 L0,40"/>
+    <path d="M46,0 L70,20 L46,40"/>
+    <path d="M30,-6 L16,46"/>
+  </g>
+</svg>
