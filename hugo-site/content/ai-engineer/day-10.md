@@ -1,6 +1,6 @@
 ---
 title: "Day 10 — SSH / tmux / nvidia-smi: 원격 GPU 서버 운영"
-date: 2026-07-13
+date: 2026-07-04
 weight: 10
 ---
 

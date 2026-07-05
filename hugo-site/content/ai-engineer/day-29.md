@@ -1,6 +1,6 @@
 ---
 title: "Day 29 — LoRA / QLoRA / PEFT: 효율적 파인튜닝"
-date: 2026-08-01
+date: 2026-07-04
 weight: 29
 ---
 

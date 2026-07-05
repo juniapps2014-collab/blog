@@ -1,6 +1,6 @@
 ---
 title: "Day 23 — FastAPI 기초 — REST API 설계"
-date: 2026-07-26
+date: 2026-07-04
 weight: 23
 ---
 

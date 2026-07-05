@@ -1,6 +1,6 @@
 ---
 title: "Day 25 — Planner / Researcher / Coder / Reviewer 역할 분리"
-date: 2026-07-28
+date: 2026-07-04
 weight: 25
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Day 05 — Token / Embedding / Context Window / KV Cache"
-date: 2026-07-08
+date: 2026-07-04
 weight: 5
 ---
 

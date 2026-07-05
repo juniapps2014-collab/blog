@@ -1,6 +1,6 @@
 ---
 title: "Day 17 — Structured Output & Pydantic 검증"
-date: 2026-07-20
+date: 2026-07-04
 weight: 17
 ---
 

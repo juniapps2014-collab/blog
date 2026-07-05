@@ -1,6 +1,6 @@
 ---
 title: "Day 06 — Ollama: 가장 간단한 로컬 LLM 실행"
-date: 2026-07-09
+date: 2026-07-04
 weight: 6
 ---
 

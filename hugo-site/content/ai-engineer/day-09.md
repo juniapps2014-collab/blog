@@ -1,6 +1,6 @@
 ---
 title: "Day 09 — Runpod 기초: Pod, Persistent Volume, Template"
-date: 2026-07-12
+date: 2026-07-04
 weight: 9
 ---
 

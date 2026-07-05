@@ -1,6 +1,6 @@
 ---
 title: "Day 04 — Transformer 아키텍처: 현대 LLM의 근간"
-date: 2026-07-07
+date: 2026-07-04
 weight: 4
 ---
 

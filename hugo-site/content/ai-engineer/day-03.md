@@ -1,6 +1,6 @@
 ---
 title: "Day 03 — GPU & CUDA: LLM 추론/학습을 위한 하드웨어 이해"
-date: 2026-07-06
+date: 2026-07-04
 weight: 3
 ---
 

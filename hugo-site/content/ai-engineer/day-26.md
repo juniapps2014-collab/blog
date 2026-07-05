@@ -1,6 +1,6 @@
 ---
 title: "Day 26 — Supervisor 패턴 & Memory 설계"
-date: 2026-07-29
+date: 2026-07-04
 weight: 26
 ---
 

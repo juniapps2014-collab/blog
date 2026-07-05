@@ -1,6 +1,6 @@
 ---
 title: "Day 08 — 양자화 & 추론 최적화: GGUF/GPTQ/AWQ, Tensor Parallel, Flash Attention, Speculative Decoding"
-date: 2026-07-11
+date: 2026-07-04
 weight: 8
 ---
 

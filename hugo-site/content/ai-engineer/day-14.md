@@ -1,6 +1,6 @@
 ---
 title: "Day 14 — MCP 개념 — Server/Client, Tool, Resource, Prompt"
-date: 2026-07-17
+date: 2026-07-04
 weight: 14
 ---
 

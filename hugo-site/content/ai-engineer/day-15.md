@@ -1,6 +1,6 @@
 ---
 title: "Day 15 — stdio vs Streamable HTTP — 전송 방식 이해와 실습"
-date: 2026-07-18
+date: 2026-07-04
 weight: 15
 ---
 

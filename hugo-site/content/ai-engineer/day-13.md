@@ -1,6 +1,6 @@
 ---
 title: "Day 13 — Interrupt & Human-in-the-loop — 사람이 개입하는 워크플로우"
-date: 2026-07-16
+date: 2026-07-04
 weight: 13
 ---
 

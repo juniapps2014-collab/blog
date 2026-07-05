@@ -1,6 +1,6 @@
 ---
 title: "Day 27 — Langfuse: Logging & Tracing"
-date: 2026-07-30
+date: 2026-07-04
 weight: 27
 ---
 

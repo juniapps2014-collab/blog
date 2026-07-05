@@ -1,6 +1,6 @@
 ---
 title: "Day 02 — Docker: 앱을 컨테이너로 패키징하기"
-date: 2026-07-05
+date: 2026-07-04
 weight: 2
 ---
 

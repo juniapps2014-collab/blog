@@ -1,6 +1,6 @@
 ---
 title: "Day 24 — WebSocket & Streaming Response, 인증(Authentication)"
-date: 2026-07-27
+date: 2026-07-04
 weight: 24
 ---
 

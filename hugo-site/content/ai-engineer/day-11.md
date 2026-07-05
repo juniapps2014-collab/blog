@@ -1,6 +1,6 @@
 ---
 title: "Day 11 — LangGraph 개념: State, Node, Edge"
-date: 2026-07-14
+date: 2026-07-04
 weight: 11
 ---
 

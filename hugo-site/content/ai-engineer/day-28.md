@@ -1,6 +1,6 @@
 ---
 title: "Day 28 — Metrics & Evaluation: 에이전트 품질 측정"
-date: 2026-07-31
+date: 2026-07-04
 weight: 28
 ---
 

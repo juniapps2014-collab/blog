@@ -1,6 +1,6 @@
 ---
 title: "Day 18 — RAG 개념과 Chunking 전략"
-date: 2026-07-21
+date: 2026-07-04
 weight: 18
 ---
 

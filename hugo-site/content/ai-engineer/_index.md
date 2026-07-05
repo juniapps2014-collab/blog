@@ -98,36 +98,36 @@ description: "LLM Agent 엔지니어링 커리큘럼 — 기초부터 실전 배
 ## 📌 진행 현황
 
 - [x] Day 01 — Python & Linux
-- [ ] Day 02 — Docker
-- [ ] Day 03 — GPU & CUDA
-- [ ] Day 04 — Transformer 아키텍처
-- [ ] Day 05 — Token / Embedding / Context Window / KV Cache
-- [ ] Day 06 — Ollama
-- [ ] Day 07 — vLLM
-- [ ] Day 08 — 양자화 & 추론 최적화
-- [ ] Day 09 — Runpod 기초
-- [ ] Day 10 — SSH / tmux / nvidia-smi
-- [ ] Day 11 — LangGraph 개념
-- [ ] Day 12 — Conditional Edge & Checkpoint
-- [ ] Day 13 — Interrupt & Human-in-the-loop
-- [ ] Day 14 — MCP 개념
-- [ ] Day 15 — stdio vs Streamable HTTP
-- [ ] Day 16 — Function Calling & JSON Schema
-- [ ] Day 17 — Structured Output & Pydantic
-- [ ] Day 18 — RAG 개념과 Chunking
-- [ ] Day 19 — Embedding Model & Similarity Search
-- [ ] Day 20 — Hybrid Search & Reranker
-- [ ] Day 21 — Qdrant / Chroma 실습
-- [ ] Day 22 — Milvus / pgvector 비교
-- [ ] Day 23 — FastAPI 기초
-- [ ] Day 24 — WebSocket & Streaming & 인증
-- [ ] Day 25 — Multi-Agent 역할 분리
-- [ ] Day 26 — Supervisor 패턴 & Memory
-- [ ] Day 27 — Langfuse Logging & Tracing
-- [ ] Day 28 — Metrics & Evaluation
-- [ ] Day 29 — LoRA / QLoRA / PEFT
-- [ ] Day 30 — SFT / DPO / RLHF
-- [ ] Day 31 — 통합 프로젝트
+- [x] Day 02 — Docker
+- [x] Day 03 — GPU & CUDA
+- [x] Day 04 — Transformer 아키텍처
+- [x] Day 05 — Token / Embedding / Context Window / KV Cache
+- [x] Day 06 — Ollama
+- [x] Day 07 — vLLM
+- [x] Day 08 — 양자화 & 추론 최적화
+- [x] Day 09 — Runpod 기초
+- [x] Day 10 — SSH / tmux / nvidia-smi
+- [x] Day 11 — LangGraph 개념
+- [x] Day 12 — Conditional Edge & Checkpoint
+- [x] Day 13 — Interrupt & Human-in-the-loop
+- [x] Day 14 — MCP 개념
+- [x] Day 15 — stdio vs Streamable HTTP
+- [x] Day 16 — Function Calling & JSON Schema
+- [x] Day 17 — Structured Output & Pydantic
+- [x] Day 18 — RAG 개념과 Chunking
+- [x] Day 19 — Embedding Model & Similarity Search
+- [x] Day 20 — Hybrid Search & Reranker
+- [x] Day 21 — Qdrant / Chroma 실습
+- [x] Day 22 — Milvus / pgvector 비교
+- [x] Day 23 — FastAPI 기초
+- [x] Day 24 — WebSocket & Streaming & 인증
+- [x] Day 25 — Multi-Agent 역할 분리
+- [x] Day 26 — Supervisor 패턴 & Memory
+- [x] Day 27 — Langfuse Logging & Tracing
+- [x] Day 28 — Metrics & Evaluation
+- [x] Day 29 — LoRA / QLoRA / PEFT
+- [x] Day 30 — SFT / DPO / RLHF
+- [x] Day 31 — 통합 프로젝트
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Day 20 — Hybrid Search & Reranker"
-date: 2026-07-23
+date: 2026-07-04
 weight: 20
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Day 22 — Milvus / pgvector 비교와 선택 기준"
-date: 2026-07-25
+date: 2026-07-04
 weight: 22
 ---
 

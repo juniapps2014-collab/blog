@@ -1,6 +1,6 @@
 ---
 title: "Day 30 — SFT / DPO / RLHF: 정렬(Alignment) 기법 비교"
-date: 2026-08-02
+date: 2026-07-04
 weight: 30
 ---
 

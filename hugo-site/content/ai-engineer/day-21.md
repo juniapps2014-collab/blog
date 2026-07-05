@@ -1,6 +1,6 @@
 ---
 title: "Day 21 — Qdrant / Chroma 실습"
-date: 2026-07-24
+date: 2026-07-04
 weight: 21
 ---
 

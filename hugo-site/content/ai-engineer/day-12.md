@@ -1,6 +1,6 @@
 ---
 title: "Day 12 — Conditional Edge & Checkpoint — 분기와 상태 저장"
-date: 2026-07-15
+date: 2026-07-04
 weight: 12
 ---
 
