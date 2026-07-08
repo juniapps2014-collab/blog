@@ -72,7 +72,7 @@ description: "기초부터 고급 프롬프트 엔지니어링 및 API 활용까
 - [x] Day 15 — Streaming 응답 처리
 - [x] Day 16 — Tool Use (Function Calling)
 - [x] Day 17 — Vision API
-- [ ] Day 18 — 비용 최적화
+- [x] Day 18 — 비용 최적화
 - [ ] Day 19 — 에이전트 설계 패턴
 - [ ] Day 20 — Multi-agent 시스템 설계
 - [ ] Day 21 — RAG 패턴
