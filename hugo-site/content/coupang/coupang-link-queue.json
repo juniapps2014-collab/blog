@@ -1,0 +1,50 @@
+{
+  "instructions": "이 파일은 자동 스케줄 작업이 아니라, 채팅에서 쿠팡파트너스 배너 링크(보통 5개)를 붙여주면 그때그때 블로그 글을 작성하면서 사용한 링크를 기록하는 이력 파일입니다. 새 링크를 받아 글을 쓸 때마다 items 배열 끝에 새 항목을 추가합니다 (id는 마지막 id+1부터 이어감). banner_html에는 파트너스 사이트에서 제공하는 배너 임베드 코드(이미지 포함 <a><img></a> 형태)를 그대로 넣고, status는 글에 실제로 사용했으면 'used', used_date는 글 작성일, blog_file에는 해당 링크가 들어간 블로그 .md 파일명을 적습니다.",
+  "items": [
+    {
+      "id": 1,
+      "product_name": "삼후 무릎보호대, 1개, 블랙",
+      "partner_link": "https://link.coupang.com/a/flJ0vbAMjA",
+      "banner_html": "<a href=\"https://link.coupang.com/a/flJ0vbAMjA\" target=\"_blank\" referrerpolicy=\"unsafe-url\"><img src=\"https://img5c.coupangcdn.com/image/affiliate/banner/a26b2308f18495912b46aa5e259ac167@2x.jpg\" alt=\"삼후 무릎보호대, 1개, 블랙\" width=\"120\" height=\"240\"></a>",
+      "status": "used",
+      "used_date": "2026-07-13",
+      "blog_file": "무릎-관절염-보호대.md"
+    },
+    {
+      "id": 2,
+      "product_name": "라이프엠디 의료용 무릎 보호대 스트랩 슬개골 관절 부목 기능성 압박 밴드 고탄력 니슬리브 1등급 의료기기, 2개, 화이트",
+      "partner_link": "https://link.coupang.com/a/flKHFmKKI0",
+      "banner_html": "<a href=\"https://link.coupang.com/a/flKHFmKKI0\" target=\"_blank\" referrerpolicy=\"unsafe-url\"><img src=\"https://image4.coupangcdn.com/image/affiliate/banner/11ef50099aa6f7a4374b8d60a5864b7f@2x.jpg\" alt=\"라이프엠디 의료용 무릎 보호대 스트랩 슬개골 관절 부목 기능성 압박 밴드 고탄력 니슬리브 1등급 의료기기, 2개, 화이트\" width=\"120\" height=\"240\"></a>",
+      "status": "used",
+      "used_date": "2026-07-13",
+      "blog_file": "무릎-관절염-보호대.md"
+    },
+    {
+      "id": 3,
+      "product_name": "[1등급 의료기기] 레노브라 무릎 보호대 러닝 슬개건, 2개",
+      "partner_link": "https://link.coupang.com/a/flKLj3iKvk",
+      "banner_html": "<a href=\"https://link.coupang.com/a/flKLj3iKvk\" target=\"_blank\" referrerpolicy=\"unsafe-url\"><img src=\"https://image12.coupangcdn.com/image/affiliate/banner/2e9929e2b60f1db54d80a73d2ecbac8b@2x.jpg\" alt=\"[1등급 의료기기] 레노브라 무릎 보호대 러닝 슬개건, 2개\" width=\"120\" height=\"240\"></a>",
+      "status": "used",
+      "used_date": "2026-07-13",
+      "blog_file": "무릎-관절염-보호대.md"
+    },
+    {
+      "id": 4,
+      "product_name": "잠스트 JK-BAND 무릎보호대, 1개, 블랙",
+      "partner_link": "https://link.coupang.com/a/flKNg3KaOa",
+      "banner_html": "<a href=\"https://link.coupang.com/a/flKNg3KaOa\" target=\"_blank\" referrerpolicy=\"unsafe-url\"><img src=\"https://img2a.coupangcdn.com/image/affiliate/banner/250b4fcd60021a2a8989a7d15eea27b2@2x.jpg\" alt=\"잠스트 JK-BAND 무릎보호대, 1개, 블랙\" width=\"120\" height=\"240\"></a>",
+      "status": "used",
+      "used_date": "2026-07-13",
+      "blog_file": "무릎-관절염-보호대.md"
+    },
+    {
+      "id": 5,
+      "product_name": "(의료기기) 잠디 메디컬 N-밴드 김남일 무릎보호대, 울트라 퍼플, 2개",
+      "partner_link": "https://link.coupang.com/a/flKPTj7Lu8",
+      "banner_html": "<a href=\"https://link.coupang.com/a/flKPTj7Lu8\" target=\"_blank\" referrerpolicy=\"unsafe-url\"><img src=\"https://image8.coupangcdn.com/image/affiliate/banner/9be4add213c445978b6b988f0547f6a7@2x.jpg\" alt=\"(의료기기) 잠디 메디컬 N-밴드 김남일 무릎보호대, 울트라 퍼플, 2개\" width=\"120\" height=\"240\"></a>",
+      "status": "used",
+      "used_date": "2026-07-13",
+      "blog_file": "무릎-관절염-보호대.md"
+    }
+  ]
+}

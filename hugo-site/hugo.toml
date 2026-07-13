@@ -8,6 +8,9 @@ hasCJKLanguage = true
 [pagination]
 pagerSize = 10
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [taxonomies]
   tag = "tags"
   category = "categories"
@@ -50,6 +53,11 @@ pagerSize = 10
     name = "AI 엔지니어"
     url = "/ai-engineer/"
     weight = 27
+  [[menu.main]]
+    identifier = "coupang"
+    name = "쿠팡파트너스"
+    url = "/coupang/"
+    weight = 28
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
