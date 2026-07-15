@@ -1,3 +1,4 @@
 hugo-site/public/
 hugo-site/resources/
 .DS_Store
+scripts/auto-deploy.log

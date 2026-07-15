@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo server *)",
+      "Bash(lsof -nP -iTCP -sTCP:LISTEN)",
+      "Bash(hugo --minify --cleanDestinationDir)",
+      "Bash(curl -s -o /dev/null -w \"day-31: %{http_code}\\\\n\" http://localhost:1313/blog/ai-engineer/day-31/)",
+      "Bash(curl -s -o /dev/null -w \"day-20: %{http_code}\\\\n\" http://localhost:1313/blog/ai-engineer/day-20/)"
+    ]
+  }
+}
