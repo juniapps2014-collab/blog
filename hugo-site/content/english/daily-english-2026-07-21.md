@@ -1,0 +1,99 @@
+---
+title: "📚 Daily English Study — 2026년 7월 21일"
+date: 2026-07-21
+categories: ["english"]
+tags: ["grammar", "english"]
+---
+
+# 📚 Daily English Study — 2026년 7월 21일
+
+---
+
+## 📖 오늘의 영문법: 관사 (Articles) — a / an / the / 무관사(zero article)
+
+관사는 명사 앞에 붙어 그 명사가 **처음 나온 것인지(불특정) / 이미 아는 것인지(특정) / 셀 수 없는 개념인지**를 표시하는 신호등입니다. 한국어에는 관사가 없어서 한국인이 가장 오래 헤매는 문법이죠. 오늘은 **셀 수 있나? → 처음인가? → 특정인가?** 순서로 판단하는 감각을 잡아봅니다.
+
+### 1단계 — a / an 의 기본 (셀 수 있는 명사 · 단수 · 처음 언급)
+
+부정관사 **a/an**은 "여럿 중 아무거나 하나"라는 뜻으로, **처음 등장하는 셀 수 있는 단수 명사** 앞에 붙습니다. 발음이 **자음 소리로 시작하면 a, 모음 소리로 시작하면 an** (철자가 아니라 소리 기준!).
+
+- **a** book, **a** university(발음 /ju/=자음), **a** European
+- **an** apple, **an** hour(h 묵음=모음 소리), **an** MBA(발음 /em/=모음)
+- 예) I saw **a** dog in the park. (어떤 개인지 특정 안 됨)
+- 예) She waited for **an** hour.
+
+### 2단계 — the 의 기본 (이미 아는 것 · 유일한 것)
+
+정관사 **the**는 "우리 둘 다 아는 바로 그것"에 붙습니다. ① 앞에서 이미 언급했거나 ② 상황상 뻔하거나 ③ 세상에 하나뿐인 것.
+
+- 이미 언급: I bought **a** shirt. **The** shirt is blue.
+- 상황상 유일: Please close **the** door. (그 방의 그 문)
+- 세상에 하나뿐: **the** sun, **the** moon, **the** internet
+- 최상급·서수: **the** best, **the** first, **the** only one
+- 예) **The** CEO of our company gave **the** opening speech.
+
+### 3단계 — 무관사(zero article) (일반적·추상적·복수/불가산)
+
+**"~라는 것 전반"을 일반적으로 말할 때**는 관사를 붙이지 않습니다. 복수형이나 셀 수 없는 명사가 대표적.
+
+- 복수·일반: **Dogs** are loyal. (개라는 동물 전반) / **Books** are expensive.
+- 불가산·일반: **Water** is essential. / I love **music**.
+- 식사·과목·언어: have **breakfast**, study **math**, speak **Korean**
+- 예) **Coffee** keeps me awake, but **the coffee** here is too strong. (일반 vs 특정)
+
+### 4단계 — the 를 쓰는 고정 패턴 (통째로 암기)
+
+- 강·바다·산맥·복수 국가명: **the** Nile, **the** Pacific, **the** Alps, **the** US
+- 악기: play **the** piano / **the** guitar
+- 신체 부위(전치사구에서): hit him on **the** head, look me in **the** eye
+- 형용사=집단: **the** rich, **the** young, **the** unemployed
+- 예) He plays **the** violin and travels **the** world.
+
+### 5단계 — 한국인이 자주 틀리는 함정
+
+- 직책이 서술어(보어)일 때 관사: She is **a** manager. (셀 수 있는 단수엔 a 필수)
+- go to **school/work/bed**(목적) vs go to **the** school(건물) — 의미 차이
+- 도시·국가명 단수엔 무관사: ❌ the Seoul / the Korea → ✅ Seoul, Korea
+- "대체로 ~" 일반화엔 무관사: ❌ The Americans love sports → ✅ Americans love sports
+- 예) I go to **work** by bus, then walk to **the** office on the 5th floor.
+
+### ✍️ 예문 5개
+
+1. I adopted **a** cat last week. **The** cat already sleeps on my bed every night.
+2. **The** sun rises in **the** east, so **the** morning light hits my desk.
+3. **Water** is free here, but **the** water in that bottle costs three dollars.
+4. She's **an** engineer who plays **the** cello and speaks **Japanese** fluently.
+5. We go to **school** on weekdays, but **the** school itself is closed on holidays.
+
+---
+
+## 🗣️ 미국인이 매일 쓰는 유용한 표현 10개
+
+| # | 표현 | 뜻 | 예문 |
+|---|------|-----|------|
+| 1 | **My bad.** | 내 잘못이야, 미안. | My bad, I sent the wrong file. |
+| 2 | **No worries.** | 괜찮아, 신경 쓰지 마. | "Sorry I'm late." "No worries." |
+| 3 | **Let's play it by ear.** | 상황 봐서 정하자. | We don't have a plan yet — let's play it by ear. |
+| 4 | **I'm on the fence.** | 아직 결정 못 했어. | I'm on the fence about the new offer. |
+| 5 | **That works for me.** | 나는 그거 괜찮아. | "How about 3 p.m.?" "That works for me." |
+| 6 | **Give me a heads-up.** | 미리 알려줘. | Give me a heads-up before you arrive. |
+| 7 | **Long story short,** | 간단히 말하면, | Long story short, we got the deal. |
+| 8 | **I hear you.** | 무슨 말인지 알아, 공감해. | I hear you, this deadline is rough. |
+| 9 | **Let's touch base.** | 잠깐 얘기 좀 하자. | Let's touch base after lunch. |
+| 10 | **It's on me.** | 이건 내가 낼게. | Dinner's on me tonight. |
+
+---
+
+## 🔗 미국인이 자주 쓰는 구동사(Phrasal Verbs) 5개
+
+| # | 구동사 | 뜻 | 예문 |
+|---|--------|-----|------|
+| 1 | **figure out** | 알아내다, 해결하다 | I finally **figured out** the bug. |
+| 2 | **run into** | 우연히 마주치다 | I **ran into** an old friend downtown. |
+| 3 | **come up with** | (아이디어를) 생각해내다 | She **came up with** a great idea. |
+| 4 | **wrap up** | 마무리하다 | Let's **wrap up** the meeting by 5. |
+| 5 | **look forward to** | 기대하다 | I **look forward to** working with you. |
+
+---
+
+> 💡 오늘의 팁: 관사는 **① 셀 수 있나? → ② 처음 언급인가(a) 아는 것인가(the)? → ③ 일반론이면 무관사** 3단계로 판단하세요. 특히 `go to school/work/bed`(목적)와 `go to the school`(건물)의 차이, 그리고 도시·국가명(Seoul, Korea)에는 the를 붙이지 않는다는 것만 기억해도 실수가 확 줄어듭니다!
