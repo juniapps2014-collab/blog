@@ -3,7 +3,7 @@ title: "강조구문 (Emphatic Structures) — It-cleft, What-cleft, Emphatic do
 date: 2026-05-31
 categories: ["english"]
 tags: ["english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 

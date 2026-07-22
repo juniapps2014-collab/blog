@@ -3,7 +3,7 @@ title: "명사절 (Noun Clauses) — that / whether / if / 의문사 — 복습 
 date: 2026-06-03
 categories: ["english"]
 tags: ["english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 

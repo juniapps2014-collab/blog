@@ -3,7 +3,7 @@ title: "관사 (Articles) — a / an / the — 복습 노트 (6월 21일)"
 date: 2026-06-21
 categories: ["english"]
 tags: ["grammar", "english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 # Daily English Study — 2026년 6월 21일

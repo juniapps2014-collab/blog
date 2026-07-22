@@ -3,7 +3,7 @@ title: "비교급과 최상급 (Comparatives & Superlatives) — 복습 노트 (
 date: 2026-06-20
 categories: ["english"]
 tags: ["grammar", "english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 # Daily English Study — 2026년 6월 20일

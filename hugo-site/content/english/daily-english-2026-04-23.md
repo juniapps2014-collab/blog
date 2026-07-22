@@ -3,7 +3,7 @@ title: "관계대명사 (Relative Pronouns) — who / which / that — 복습 �
 date: 2026-04-23
 categories: ["english"]
 tags: ["english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 

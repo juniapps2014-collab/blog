@@ -3,7 +3,7 @@ title: "분사구문 (Participial Phrases) — 복습 노트 (4월 25일)"
 date: 2026-04-25
 categories: ["english"]
 tags: ["english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 

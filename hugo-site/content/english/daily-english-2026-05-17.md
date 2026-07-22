@@ -3,7 +3,7 @@ title: "가정법 과거 (Second Conditional) — 복습 노트 (5월 17일)"
 date: 2026-05-17
 categories: ["english"]
 tags: ["english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 

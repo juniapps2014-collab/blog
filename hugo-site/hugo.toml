@@ -25,9 +25,6 @@ pagerSize = 10
   ShowCodeCopyButtons = true
   ShowToc = true
 
-[params.taxonomy]
-  renderTermEvenIfEmpty = true
-
 [params.homeInfoParams]
   Title = "매일 한 가지"
   Content = "매일 조금씩 — 영어 공부와 카메라 공부 기록"
@@ -63,3 +60,13 @@ pagerSize = 10
     name = "Tags"
     url = "/tags/"
     weight = 30
+  [[menu.main]]
+    identifier = "about"
+    name = "소개"
+    url = "/about/"
+    weight = 90
+  [[menu.main]]
+    identifier = "privacy"
+    name = "개인정보처리방침"
+    url = "/privacy/"
+    weight = 95

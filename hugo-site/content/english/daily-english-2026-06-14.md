@@ -3,7 +3,7 @@ title: "가정법 과거 (Second Conditional) — 복습 노트 (6월 14일)"
 date: 2026-06-14
 categories: ["english"]
 tags: ["grammar", "english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 # 📚 Daily English Study — 2026년 6월 14일

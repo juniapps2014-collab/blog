@@ -3,7 +3,7 @@ title: "가정법 과거 (Second Conditional) — 복습 노트 (6월 15일)"
 date: 2026-06-15
 categories: ["english"]
 tags: ["grammar", "english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 ## 📚 오늘의 문법: 가정법 과거 (Second Conditional)

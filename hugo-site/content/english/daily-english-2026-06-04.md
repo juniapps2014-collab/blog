@@ -3,7 +3,7 @@ title: "간접화법 (Reported Speech) — 시제 일치·인칭·지시어 변�
 date: 2026-06-04
 categories: ["english"]
 tags: ["english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 

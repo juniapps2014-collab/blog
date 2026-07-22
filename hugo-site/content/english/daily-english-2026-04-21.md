@@ -3,7 +3,7 @@ title: "가정법 과거완료 (Third Conditional) — 복습 노트 (4월 21일
 date: 2026-04-21
 categories: ["english"]
 tags: ["english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 

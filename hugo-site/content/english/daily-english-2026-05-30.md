@@ -3,7 +3,7 @@ title: "분사구문 (Participial Phrases) — 두 문장을 하나로 압축하
 date: 2026-05-30
 categories: ["english"]
 tags: ["english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 

@@ -3,7 +3,7 @@ title: "도치 (Inversion) — 강조를 위한 주어·동사 어순 뒤집기 
 date: 2026-05-29
 categories: ["english"]
 tags: ["english"]
-noindex: true
+robotsNoIndex: true
 ---
 
 
