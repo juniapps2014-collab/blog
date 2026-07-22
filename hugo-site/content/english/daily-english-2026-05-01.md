@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — May 1, 2026"
+title: "영문법 조동사 심화 ② — can / could / may / might / will / would 뉘앙스 차이"
 date: 2026-05-01
 categories: ["english"]
 tags: ["english"]

@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 8일 (월요일)"
+title: "영문법 분사구문 (Participial Construction)"
 date: 2026-06-08
 categories: ["english"]
 tags: ["english"]

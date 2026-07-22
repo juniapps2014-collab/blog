@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — May 2, 2026"
+title: "영문법 조동사 심화 ③ — used to / be used to / get used to + 가정법 조동사 (would have / could have / might have)"
 date: 2026-05-02
 categories: ["english"]
 tags: ["english"]

@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — May 3, 2026"
+title: "영문법 부정사 vs. 동명사 ① — to부정사만 쓰는 동사 vs. 동명사만 쓰는 동사"
 date: 2026-05-03
 categories: ["english"]
 tags: ["english"]

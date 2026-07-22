@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 13일"
+title: "수동태 (Passive Voice) — 복습 노트 (6월 13일)"
 date: 2026-06-13
 categories: ["english"]
 tags: ["grammar", "english"]
+noindex: true
 ---
 
 # 📚 Daily English Study — 2026년 6월 13일 (토요일)

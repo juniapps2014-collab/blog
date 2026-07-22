@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 18일"
+title: "현재완료 (Present Perfect) — 복습 노트 (6월 18일)"
 date: 2026-06-18
 categories: ["english"]
 tags: ["grammar", "english"]
+noindex: true
 ---
 
 # Daily English Study — 2026년 6월 18일

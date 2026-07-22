@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 5월 28일 (목요일)"
+title: "영문법 혼합 가정법 (Mixed Conditional)"
 date: 2026-05-28
 categories: ["english"]
 tags: ["english"]

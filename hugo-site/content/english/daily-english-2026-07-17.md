@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 17일"
+title: "영문법 비교 표현 (Comparatives & Superlatives) — 원급 · 비교급 · 최상급"
 date: 2026-07-17
 categories: ["english"]
 tags: ["grammar", "english"]

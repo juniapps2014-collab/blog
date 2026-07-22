@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 19일"
+title: "동명사 vs 부정사 (Gerund vs. Infinitive) — 복습 노트 (6월 19일)"
 date: 2026-06-19
 categories: ["english"]
 tags: ["grammar", "english"]
+noindex: true
 ---
 
 # Daily English Study — 2026년 6월 19일

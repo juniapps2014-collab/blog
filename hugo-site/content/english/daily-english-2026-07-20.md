@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 20일"
+title: "영문법 전치사 (Prepositions) — 시간·장소의 at / on / in + 자주 틀리는 전치사"
 date: 2026-07-20
 categories: ["english"]
 tags: ["grammar", "english"]

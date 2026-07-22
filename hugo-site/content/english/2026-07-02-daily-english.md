@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 2일"
+title: "영문법 Reported Speech (간접화법) — 남의 말을 전달하는 법"
 date: 2026-07-02
 categories: ["english"]
 tags: ["grammar", "english"]

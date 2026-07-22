@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 13일"
+title: "영문법 First Conditional (1형식 조건문) — 실현 가능한 미래 표현하기"
 date: 2026-07-13
 categories: ["english"]
 tags: ["grammar", "english"]

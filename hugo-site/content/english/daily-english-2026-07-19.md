@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 19일"
+title: "영문법 관계사 (Relative Clauses) — 관계대명사 · 관계부사"
 date: 2026-07-19
 categories: ["english"]
 tags: ["grammar", "english"]

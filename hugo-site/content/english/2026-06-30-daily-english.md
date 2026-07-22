@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 30일"
+title: "영문법 \"Wish\" + 과거시제 — 현재 상황에 대한 아쉬움 표현하기"
 date: 2026-06-30
 categories: ["english"]
 tags: ["grammar", "english"]

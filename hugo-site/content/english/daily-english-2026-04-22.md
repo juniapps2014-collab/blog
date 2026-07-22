@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — April 22, 2026"
+title: "혼합 가정법 (Mixed Conditionals) — 복습 노트 (4월 22일)"
 date: 2026-04-22
 categories: ["english"]
 tags: ["english"]
+noindex: true
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 3일"
+title: "영문법 Modal Verbs of Deduction (추측을 나타내는 조동사) — must / might / could / can't"
 date: 2026-07-03
 categories: ["english"]
 tags: ["grammar", "english"]

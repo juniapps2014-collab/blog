@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — May 6, 2026"
+title: "영문법 부정사 vs. 동명사 ③ — need / like / hate / prefer + 완료 부정사 (to have p.p.)"
 date: 2026-05-06
 categories: ["english"]
 tags: ["english"]

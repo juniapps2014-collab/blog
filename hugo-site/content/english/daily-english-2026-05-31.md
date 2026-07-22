@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — 2026년 5월 31일 (일요일)"
+title: "강조구문 (Emphatic Structures) — It-cleft, What-cleft, Emphatic do — 복습 노트 (5월 31일)"
 date: 2026-05-31
 categories: ["english"]
 tags: ["english"]
+noindex: true
 ---
 
 

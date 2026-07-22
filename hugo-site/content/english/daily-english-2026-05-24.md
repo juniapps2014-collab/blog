@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — 2026년 5월 24일 (일요일)"
+title: "가정법 과거 (Second Conditional) — 복습 노트 (5월 24일)"
 date: 2026-05-24
 categories: ["english"]
 tags: ["english"]
+noindex: true
 ---
 
 

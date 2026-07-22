@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — April 28, 2026"
+title: "영문법 수동태의 다양한 형태 (4형식·5형식 수동태 + by 이외의 전치사)"
 date: 2026-04-28
 categories: ["english"]
 tags: ["english"]

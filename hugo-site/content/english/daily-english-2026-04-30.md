@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — April 30, 2026"
+title: "영문법 조동사 심화 ① — must / have to / should / ought to 뉘앙스 차이"
 date: 2026-04-30
 categories: ["english"]
 tags: ["english"]

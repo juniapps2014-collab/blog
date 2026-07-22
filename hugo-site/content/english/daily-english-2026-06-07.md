@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 7일 (일요일)"
+title: "영문법 조동사 완료형 (Modal Perfect) — must/should/could/might/would + have p.p."
 date: 2026-06-07
 categories: ["english"]
 tags: ["english"]

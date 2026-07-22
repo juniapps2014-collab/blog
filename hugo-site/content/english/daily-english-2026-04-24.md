@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — April 24, 2026"
+title: "영문법 관계부사 (Relative Adverbs) — when / where / why / how + 계속적 용법"
 date: 2026-04-24
 categories: ["english"]
 tags: ["english"]

@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 16일"
+title: "관계절 (Relative Clauses) — 복습 노트 (6월 16일)"
 date: 2026-06-16
 categories: ["english"]
 tags: ["grammar", "english"]
+noindex: true
 ---
 
 ## 📚 오늘의 문법: 관계절 (Relative Clauses)

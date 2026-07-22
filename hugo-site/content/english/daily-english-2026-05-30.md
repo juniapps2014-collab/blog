@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — 2026년 5월 30일 (토요일)"
+title: "분사구문 (Participial Phrases) — 두 문장을 하나로 압축하기 — 복습 노트 (5월 30일)"
 date: 2026-05-30
 categories: ["english"]
 tags: ["english"]
+noindex: true
 ---
 
 

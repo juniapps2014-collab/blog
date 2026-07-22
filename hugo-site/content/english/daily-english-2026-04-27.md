@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — April 27, 2026"
+title: "영문법 수동태 기본형 (The Passive Voice — Basics)"
 date: 2026-04-27
 categories: ["english"]
 tags: ["english"]

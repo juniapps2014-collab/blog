@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 28일"
+title: "영문법 Conditional Sentences (조건문) — Type 2 (가정법 과거)"
 date: 2026-06-28
 categories: ["english"]
 tags: ["grammar", "english"]

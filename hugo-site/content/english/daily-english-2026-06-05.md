@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 5일 (금요일)"
+title: "영문법 가정법 (Conditionals) — 0·1·2·3차 + Mixed Conditional 총정리"
 date: 2026-06-05
 categories: ["english"]
 tags: ["english"]

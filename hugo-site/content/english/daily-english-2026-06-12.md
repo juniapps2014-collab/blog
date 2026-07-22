@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 12일"
+title: "가정법 과거 (Second Conditional) — 복습 노트 (6월 12일)"
 date: 2026-06-12
 categories: ["english"]
 tags: ["grammar", "english"]
+noindex: true
 ---
 
 # Daily English Study — 2026년 6월 12일 (Friday)

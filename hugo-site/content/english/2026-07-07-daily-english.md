@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 7일"
+title: "영문법 Countable & Uncountable Nouns + Quantifiers (셀 수 있는 명사 vs 셀 수 없는 명사 + 수량 표현)"
 date: 2026-07-07
 categories: ["english"]
 tags: ["grammar", "english"]

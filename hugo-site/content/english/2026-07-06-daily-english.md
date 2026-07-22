@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 6일"
+title: "영문법 Causative Verbs (사역동사) — have / get / make / let + something/someone"
 date: 2026-07-06
 categories: ["english"]
 tags: ["grammar", "english"]

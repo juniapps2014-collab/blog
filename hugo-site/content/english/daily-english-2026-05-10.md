@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — May 10, 2026"
+title: "영문법 간접화법 ③ — 시제 예외 & 격식체 전달동사 완결 (Reported Speech: Tense Exceptions & Advanced Reporting Verbs)"
 date: 2026-05-10
 categories: ["english"]
 tags: ["english"]

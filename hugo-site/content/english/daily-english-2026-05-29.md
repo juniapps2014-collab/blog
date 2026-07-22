@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — 2026년 5월 29일 (금요일)"
+title: "도치 (Inversion) — 강조를 위한 주어·동사 어순 뒤집기 — 복습 노트 (5월 29일)"
 date: 2026-05-29
 categories: ["english"]
 tags: ["english"]
+noindex: true
 ---
 
 

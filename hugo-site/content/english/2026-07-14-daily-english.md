@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 14일"
+title: "영문법 Question Tags (부가의문문) — \"..., isn't it?\" 제대로 만들기"
 date: 2026-07-14
 categories: ["english"]
 tags: ["grammar", "english"]

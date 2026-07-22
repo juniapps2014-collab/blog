@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 22일"
+title: "영문법 접속사 (Conjunctions) — 등위접속사 & 종속접속사"
 date: 2026-06-22
 categories: ["english"]
 tags: ["grammar", "english"]

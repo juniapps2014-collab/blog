@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — April 26, 2026"
+title: "영문법 독립분사구문 & with 분사구문 (Absolute Phrases & \"with + 명사 + 분사\")"
 date: 2026-04-26
 categories: ["english"]
 tags: ["english"]

@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — May 8, 2026"
+title: "영문법 간접화법 ② — 의문문·명령문·요청문 전환 (Reported Speech: Questions, Commands & Requests)"
 date: 2026-05-08
 categories: ["english"]
 tags: ["english"]

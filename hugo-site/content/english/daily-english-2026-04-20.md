@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — April 20, 2026"
+title: "가정법 과거 (Second Conditional) — 복습 노트 (4월 20일)"
 date: 2026-04-20
 categories: ["english"]
 tags: ["english"]
+noindex: true
 ---
 
 

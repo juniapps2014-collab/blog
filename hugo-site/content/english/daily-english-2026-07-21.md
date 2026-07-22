@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 21일"
+title: "영문법 관사 (Articles) — a / an / the / 무관사(zero article)"
 date: 2026-07-21
 categories: ["english"]
 tags: ["grammar", "english"]

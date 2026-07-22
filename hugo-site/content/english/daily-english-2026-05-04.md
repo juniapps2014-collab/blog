@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — May 4, 2026"
+title: "영문법 부정사 vs. 동명사 ② — 의미가 달라지는 동사들 (stop / remember / forget / try / regret)"
 date: 2026-05-04
 categories: ["english"]
 tags: ["english"]

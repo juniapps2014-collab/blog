@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 10일"
+title: "영문법 Wish / If only — 아쉬움과 소망 표현하기"
 date: 2026-07-10
 categories: ["english"]
 tags: ["grammar", "english"]

@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — April 23, 2026"
+title: "관계대명사 (Relative Pronouns) — who / which / that — 복습 노트 (4월 23일)"
 date: 2026-04-23
 categories: ["english"]
 tags: ["english"]
+noindex: true
 ---
 
 

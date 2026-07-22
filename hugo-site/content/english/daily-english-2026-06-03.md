@@ -1,8 +1,9 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 3일 (수요일)"
+title: "명사절 (Noun Clauses) — that / whether / if / 의문사 — 복습 노트 (6월 3일)"
 date: 2026-06-03
 categories: ["english"]
 tags: ["english"]
+noindex: true
 ---
 
 

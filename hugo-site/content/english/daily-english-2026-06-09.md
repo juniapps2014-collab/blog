@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 9일 (화요일)"
+title: "영문법 도치 (Inversion) — 강조·부정어·조건의 어순 뒤집기"
 date: 2026-06-09
 categories: ["english"]
 tags: ["grammar", "english"]

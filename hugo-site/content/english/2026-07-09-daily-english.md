@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 9일"
+title: "영문법 Passive Voice (수동태) — 능동태와 수동태 제대로 구분하기"
 date: 2026-07-09
 categories: ["english"]
 tags: ["grammar", "english"]

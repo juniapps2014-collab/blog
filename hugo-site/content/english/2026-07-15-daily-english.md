@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 15일"
+title: "영문법 Third Conditional (제3형 조건문) — 과거의 후회와 가정 표현하기"
 date: 2026-07-15
 categories: ["english"]
 tags: ["grammar", "english"]

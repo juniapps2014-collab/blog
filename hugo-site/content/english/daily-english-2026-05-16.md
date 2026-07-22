@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — May 16, 2026"
+title: "영문법 명사절 ② — wh-명사절 & 간접의문문 어순 (Noun Clauses: wh-words & Indirect Questions)"
 date: 2026-05-16
 categories: ["english"]
 tags: ["english"]

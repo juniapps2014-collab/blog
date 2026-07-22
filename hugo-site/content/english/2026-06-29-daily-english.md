@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 29일"
+title: "영문법 Present Perfect vs. Simple Past (현재완료 vs. 단순과거)"
 date: 2026-06-29
 categories: ["english"]
 tags: ["grammar", "english"]

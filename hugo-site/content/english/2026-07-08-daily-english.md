@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 8일"
+title: "영문법 Future Forms (미래 표현) — will vs. be going to vs. Present Continuous"
 date: 2026-07-08
 categories: ["english"]
 tags: ["grammar", "english"]

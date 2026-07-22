@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 4일"
+title: "영문법 Gerunds vs. Infinitives (동명사 vs to부정사) — 동사 뒤에 뭐가 올까?"
 date: 2026-07-04
 categories: ["english"]
 tags: ["grammar", "english"]

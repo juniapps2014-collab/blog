@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 16일"
+title: "영문법 가정·소망 표현 (Subjunctive & Wish) — I wish / If only / would rather / it's (high) time"
 date: 2026-07-16
 categories: ["english"]
 tags: ["grammar", "english"]

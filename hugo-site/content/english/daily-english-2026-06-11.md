@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 11일"
+title: "영문법 강조 구문 (Cleft Sentences) — It-cleft & Wh-cleft"
 date: 2026-06-11
 categories: ["english"]
 tags: ["grammar", "english"]

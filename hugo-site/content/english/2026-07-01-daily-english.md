@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 1일"
+title: "영문법 \"Used to\" vs \"Be used to\" vs \"Get used to\" — 헷갈리는 세 표현 완전 정리"
 date: 2026-07-01
 categories: ["english"]
 tags: ["grammar", "english"]

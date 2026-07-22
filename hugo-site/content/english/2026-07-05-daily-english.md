@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 7월 5일"
+title: "영문법 Relative Clauses (관계대명사) — who / which / that / whose"
 date: 2026-07-05
 categories: ["english"]
 tags: ["grammar", "english"]

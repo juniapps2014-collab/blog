@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 2일 (화요일)"
+title: "영문법 복합관계사 (Compound Relatives) — whoever / whatever / whichever / whenever / wherever / however"
 date: 2026-06-02
 categories: ["english"]
 tags: ["english"]

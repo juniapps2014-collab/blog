@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 23일"
+title: "영문법 시제 일치 (Sequence of Tenses)"
 date: 2026-06-23
 categories: ["english"]
 tags: ["grammar", "english"]

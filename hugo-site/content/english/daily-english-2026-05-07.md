@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — May 7, 2026"
+title: "영문법 간접화법 ① — 시제 일치 & 평서문 전환 (Reported Speech: Backshift & Statements)"
 date: 2026-05-07
 categories: ["english"]
 tags: ["english"]

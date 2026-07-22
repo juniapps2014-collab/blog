@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — 2026년 6월 1일 (월요일)"
+title: "영문법 관계사절 (Relative Clauses) — 제한적 vs. 비제한적 용법"
 date: 2026-06-01
 categories: ["english"]
 tags: ["english"]

@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — April 29, 2026"
+title: "영문법 Get-Passive (get + p.p.) & 자주 틀리는 수동태 표현"
 date: 2026-04-29
 categories: ["english"]
 tags: ["english"]

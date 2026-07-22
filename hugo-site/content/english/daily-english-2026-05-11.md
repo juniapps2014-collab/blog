@@ -1,5 +1,5 @@
 ---
-title: "📚 Daily English Study — May 11, 2026"
+title: "영문법 명사절 심화 ① — that절 / if·whether절 (Noun Clauses: that / if / whether)"
 date: 2026-05-11
 categories: ["english"]
 tags: ["english"]
