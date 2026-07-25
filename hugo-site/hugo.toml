@@ -4,6 +4,7 @@ title = "매일 한 가지"
 theme = "PaperMod"
 defaultContentLanguage = "ko"
 hasCJKLanguage = true
+enableRobotsTXT = true
 
 [pagination]
 pagerSize = 10
@@ -17,7 +18,7 @@ pagerSize = 10
 
 [params]
   author = "Yongjun Choi"
-  description = "영어 공부 & 카메라 공부 기록"
+  description = "매일 조금씩 배우는 학습 블로그 — Claude·AI 엔지니어링, Unity 게임 개발, 영어, 카메라 강좌"
   defaultTheme = "dark"
   ShowReadingTime = true
   ShowPostNavLinks = true
@@ -27,7 +28,7 @@ pagerSize = 10
 
 [params.homeInfoParams]
   Title = "매일 한 가지"
-  Content = "매일 조금씩 — 영어 공부와 카메라 공부 기록"
+  Content = "매일 조금씩 — Claude·AI 엔지니어링, Unity 게임 개발, 영어, 카메라 학습 기록"
 
 [menu]
   [[menu.main]]
