@@ -46,6 +46,11 @@ pagerSize = 10
     url = "/claude/"
     weight = 25
   [[menu.main]]
+    identifier = "unity"
+    name = "유니티 강좌"
+    url = "/unity/"
+    weight = 26
+  [[menu.main]]
     identifier = "ai-engineer"
     name = "AI 엔지니어"
     url = "/ai-engineer/"
