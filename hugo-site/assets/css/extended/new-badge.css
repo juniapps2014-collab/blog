@@ -1,0 +1,20 @@
+.new-badge {
+    display: inline-block;
+    background: #e5484d;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 1;
+    padding: 3px 6px;
+    border-radius: 6px;
+    vertical-align: middle;
+    margin-left: 6px;
+}
+
+#menu .new-badge {
+    font-size: 9px;
+    padding: 2px 4px;
+    margin-left: 2px;
+    vertical-align: super;
+    border-radius: 4px;
+}

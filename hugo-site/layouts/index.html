@@ -20,7 +20,12 @@
       {{- range first 3 $posts }}
       <article class="post-entry">
         <header class="entry-header">
-          <h2 class="entry-hint-parent">{{- .Title }}</h2>
+          <h2 class="entry-hint-parent">
+            {{- .Title }}
+            {{- if eq (.Date.Format "2006-01-02") (now.Format "2006-01-02") }}
+            <span class="new-badge" data-new-date="{{ .Date.Format "2006-01-02" }}">NEW</span>
+            {{- end }}
+          </h2>
         </header>
         {{- if (ne (.Param "hideSummary") true) }}
         <div class="entry-content">

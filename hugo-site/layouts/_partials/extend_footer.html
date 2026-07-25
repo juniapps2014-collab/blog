@@ -1,0 +1,12 @@
+{{- /* 빌드 시점 기준으로 렌더된 NEW 배지 중, 방문자의 오늘 날짜와 다른 것은 제거 */ -}}
+<script>
+    (function () {
+        var d = new Date();
+        var today = d.getFullYear() + "-"
+            + String(d.getMonth() + 1).padStart(2, "0") + "-"
+            + String(d.getDate()).padStart(2, "0");
+        document.querySelectorAll(".new-badge[data-new-date]").forEach(function (el) {
+            if (el.dataset.newDate !== today) el.remove();
+        });
+    })();
+</script>
