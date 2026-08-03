@@ -11,7 +11,7 @@ description: "Unity 엔진과 3D 모델링(Blender)을 함께 익히는 60일 �
 - [x] Day 01 — Unity 설치 및 에디터 인터페이스 익히기
 - [x] Day 02 — GameObject와 Transform 이해하기
 - [x] Day 03 — Scene 구성과 계층 구조(Hierarchy) 관리
-- [ ] Day 04 — Prefab 개념과 활용
+- [x] Day 04 — Prefab 개념과 활용
 - [ ] Day 05 — 기본 C# 스크립팅 - MonoBehaviour 생명주기
 - [ ] Day 06 — Unity Input System 기초
 - [ ] Day 07 — 1주차 정리: 미니 씬 만들기 실습
