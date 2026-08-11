@@ -18,7 +18,7 @@ description: "Unity 엔진과 3D 모델링(Blender)을 함께 익히는 60일 �
 - [x] Day 08 — Rigidbody와 물리 엔진 기초
 - [x] Day 09 — Collider와 충돌 감지
 - [x] Day 10 — Unity UI 시스템(Canvas, UI 요소) 기초
-- [ ] Day 11 — 카메라 시스템과 시네마틱 기초
+- [x] Day 11 — 카메라 시스템과 시네마틱 기초
 - [ ] Day 12 — 오디오 시스템 다루기
 - [ ] Day 13 — 프로젝트 폴더 구조와 에셋 관리 베스트 프랙티스
 - [ ] Day 14 — 2주차 정리: 간단한 인터랙티브 씬 완성
