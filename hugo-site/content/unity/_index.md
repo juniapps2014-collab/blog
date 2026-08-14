@@ -22,7 +22,7 @@ description: "Unity 엔진과 3D 모델링(Blender)을 함께 익히는 60일 �
 - [x] Day 12 — 오디오 시스템 다루기
 - [x] Day 13 — 프로젝트 폴더 구조와 에셋 관리 베스트 프랙티스
 - [x] Day 14 — 2주차 정리: 간단한 인터랙티브 씬 완성
-- [ ] Day 15 — Blender 설치와 인터페이스 익히기
+- [x] Day 15 — Blender 설치와 인터페이스 익히기
 - [ ] Day 16 — 기본 도형(Mesh) 모델링과 편집 모드
 - [ ] Day 17 — Modifier 스택 활용하기 (Subdivision, Mirror 등)
 - [ ] Day 18 — UV 언랩(Unwrapping) 기초
