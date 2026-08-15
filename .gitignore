@@ -1,4 +1,13 @@
 hugo-site/public/
 hugo-site/resources/
 .DS_Store
-scripts/auto-deploy.log
+
+# 로그
+scripts/*.log
+
+# 자격 증명 — 절대 커밋 금지
+coupang_key/
+.env
+
+# 로컬 전용 운영 메모
+NOTES.local.md

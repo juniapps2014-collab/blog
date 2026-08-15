@@ -16,7 +16,15 @@
       "Bash(git submodule *)",
       "Bash(git remote *)",
       "Bash(find /Users/yongjun.choi/WorkSpace/Personal -name \"2026-06-08-english-study.md\" 2>/dev/null)",
-      "Bash(git -C /Users/yongjun.choi/WorkSpace/Personal/Blog status --short)"
+      "Bash(git -C /Users/yongjun.choi/WorkSpace/Personal/Blog status --short)",
+      "Bash(sort -t: -k2)",
+      "Bash(python3 *)",
+      "Bash(hugo --quiet --environment production)",
+      "Bash(crontab -l)",
+      "Read(//Users/yongjun.choi/Library/**)",
+      "mcp__scheduled-tasks__list_scheduled_tasks",
+      "Read(//Library/LaunchAgents/**)",
+      "Bash(launchctl list *)"
     ]
   }
 }
