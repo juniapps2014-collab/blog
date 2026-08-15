@@ -11,3 +11,4 @@ coupang_key/
 
 # 로컬 전용 운영 메모
 NOTES.local.md
+.claude/settings.local.json
