@@ -26,6 +26,15 @@ pagerSize = 10
   ShowCodeCopyButtons = true
   ShowToc = true
 
+# PaperMod는 이 값들이 없으면 favicon.ico 등 기본 파일명으로 링크를 내보내는데,
+# 해당 파일이 static/에 없어 5건이 404였다. .ico 대신 기존 favicon.svg를 쓴다.
+[params.assets]
+  favicon = "favicon.svg"
+  favicon16x16 = "favicon-16x16.png"
+  favicon32x32 = "favicon-32x32.png"
+  apple_touch_icon = "apple-touch-icon.png"
+  safari_pinned_tab = "safari-pinned-tab.svg"
+
 [params.homeInfoParams]
   Title = "매일 한 가지"
   Content = "매일 조금씩 — Claude·AI 엔지니어링, Unity 게임 개발, 영어, 카메라 학습 기록"
