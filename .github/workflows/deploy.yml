@@ -28,7 +28,10 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "latest"
+          # 핀 고정: PaperMod가 .Language.LanguageDirection/LanguageCode(v0.158.0 deprecated)를
+          # 아직 사용해, Hugo가 이를 제거하는 버전을 내면 "latest"로는 배포가 깨진다.
+          # 테마가 대응하면 다시 올릴 것.
+          hugo-version: "0.165.0"
           extended: true
 
       - name: Setup Pages
