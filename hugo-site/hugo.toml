@@ -16,6 +16,11 @@ pagerSize = 10
   tag = "tags"
   category = "categories"
 
+# GA4. 테마 head.html이 hugo.IsProduction 조건에서만 GA 파샬을 호출하므로
+# 로컬 hugo server에서는 집계되지 않고 배포 빌드에서만 동작한다.
+[services.googleAnalytics]
+  ID = "G-SB472CMM5C"
+
 [params]
   author = "Yongjun Choi"
   description = "매일 조금씩 배우는 학습 블로그 — Claude·AI 엔지니어링, Unity 게임 개발, 영어, 카메라 강좌"
