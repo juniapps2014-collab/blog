@@ -1,11 +1,11 @@
 ---
 title: "Used to랑 Would, 둘 다 과거 얘기인데 뭐가 다를까"
-date: 2026-08-17
+date: 2026-08-16
 categories: ["english"]
 tags: ["grammar", "english"]
 ---
 
-## 🗓️ 2026년 8월 17일 (월요일) — Daily English Study
+## 🗓️ 2026년 8월 16일 (일요일) — Daily English Study
 
 ---
 
