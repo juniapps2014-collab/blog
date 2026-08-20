@@ -9,6 +9,7 @@ sitemap:
 # noindex인 글을 sitemap에 남기면 모순 신호가 되므로 sitemap에서도 뺀다.
 cascade:
   robotsNoIndex: true
+  hiddenInRss: true
   sitemap:
     disable: true
 ---

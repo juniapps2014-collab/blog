@@ -29,7 +29,7 @@ pagerSize = 10
 # PaperMod는 이 값들이 없으면 favicon.ico 등 기본 파일명으로 링크를 내보내는데,
 # 해당 파일이 static/에 없어 5건이 404였다. .ico 대신 기존 favicon.svg를 쓴다.
 [params.assets]
-  favicon = "favicon.svg"
+  favicon = "favicon.ico"
   favicon16x16 = "favicon-16x16.png"
   favicon32x32 = "favicon-32x32.png"
   apple_touch_icon = "apple-touch-icon.png"
