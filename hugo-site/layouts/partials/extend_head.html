@@ -11,7 +11,7 @@
 {{- if and $sectionHero (eq .Kind "section") }}
 <style>
 .page-header {
-    background-image: url('{{ (printf "/blog/images/%s" $sectionHero) }}');
+    background-image: url('{{ (printf "images/%s" $sectionHero) | absURL }}');
     background-size: cover;
     background-position: center 40%;
     position: relative;
