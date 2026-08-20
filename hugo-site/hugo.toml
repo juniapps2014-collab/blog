@@ -1,4 +1,4 @@
-baseURL = "https://juniapps2014-collab.github.io/blog/"
+baseURL = "https://daylogs.me/"
 locale = "ko"
 title = "매일 한 가지"
 theme = "PaperMod"

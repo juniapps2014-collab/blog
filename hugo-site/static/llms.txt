@@ -6,14 +6,14 @@
 
 ## 섹션
 
-- [Claude 사용법](https://juniapps2014-collab.github.io/blog/claude/): 기초 프롬프트 작성부터 프롬프트 엔지니어링, Anthropic API, 에이전트 설계까지 25일 커리큘럼
-- [AI 엔지니어](https://juniapps2014-collab.github.io/blog/ai-engineer/): Python·Docker·GPU 기초부터 Local LLM(Ollama, vLLM), LangGraph, MCP, RAG, FastAPI, 파인튜닝, 실전 배포까지 31일 커리큘럼
-- [유니티 강좌](https://juniapps2014-collab.github.io/blog/unity/): Unity 엔진과 Blender 3D 모델링을 함께 익히는 60일 커리큘럼 — 기초, 임포트 파이프라인, 애니메이션, 셰이더, 최적화
-- [English](https://juniapps2014-collab.github.io/blog/english/): 실전 영어 표현·회화 학습 노트
-- [Camera](https://juniapps2014-collab.github.io/blog/camera/): 사진·카메라 기초 학습 노트
+- [Claude 사용법](https://daylogs.me/claude/): 기초 프롬프트 작성부터 프롬프트 엔지니어링, Anthropic API, 에이전트 설계까지 25일 커리큘럼
+- [AI 엔지니어](https://daylogs.me/ai-engineer/): Python·Docker·GPU 기초부터 Local LLM(Ollama, vLLM), LangGraph, MCP, RAG, FastAPI, 파인튜닝, 실전 배포까지 31일 커리큘럼
+- [유니티 강좌](https://daylogs.me/unity/): Unity 엔진과 Blender 3D 모델링을 함께 익히는 60일 커리큘럼 — 기초, 임포트 파이프라인, 애니메이션, 셰이더, 최적화
+- [English](https://daylogs.me/english/): 실전 영어 표현·회화 학습 노트
+- [Camera](https://daylogs.me/camera/): 사진·카메라 기초 학습 노트
 
 ## 리소스
 
-- [전체 글 목록 (sitemap)](https://juniapps2014-collab.github.io/blog/sitemap.xml)
-- [RSS 피드](https://juniapps2014-collab.github.io/blog/index.xml)
-- [소개](https://juniapps2014-collab.github.io/blog/about/)
+- [전체 글 목록 (sitemap)](https://daylogs.me/sitemap.xml)
+- [RSS 피드](https://daylogs.me/index.xml)
+- [소개](https://daylogs.me/about/)

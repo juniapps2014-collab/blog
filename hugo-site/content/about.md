@@ -33,4 +33,4 @@ ShowBreadCrumbs: false
 
 - GitHub 저장소의 [Issues](https://github.com/juniapps2014-collab)를 통해 남겨 주시면 확인 후 답변드립니다.
 
-광고 게재에 관한 안내는 [개인정보처리방침](/blog/privacy/)을 참고해 주세요.
+광고 게재에 관한 안내는 [개인정보처리방침]({{< relref "privacy.md" >}})을 참고해 주세요.
