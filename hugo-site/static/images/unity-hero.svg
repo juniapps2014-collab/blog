@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 788" width="1400" height="788">
+  <!-- Unity + Blender 3D 모델링 섹션 히어로.
+       ai-engineer-hero.svg와 같은 문법(어두운 그라디언트 + 라디얼 글로우 + 격자 + 콘셉트 모티프).
+       페이지에서 rgba(0,0,0,0.55) 오버레이가 덮이므로 형태는 밝게 유지한다. -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1c"/>
+      <stop offset="50%" stop-color="#131c2e"/>
+      <stop offset="100%" stop-color="#241a12"/>
+    </linearGradient>
+    <radialGradient id="glowOrange" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f97316" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#f97316" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowTeal" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="faceFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#fdba74" stop-opacity="0.14"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="788" fill="url(#bg)"/>
+  <circle cx="1120" cy="600" r="380" fill="url(#glowOrange)"/>
+  <circle cx="300" cy="200" r="340" fill="url(#glowTeal)"/>
+
+  <!-- 원근 바닥 격자 (뷰포트 느낌) -->
+  <g stroke="#ffffff" stroke-opacity="0.07" stroke-width="1">
+    <path d="M0,560 H1400"/>
+    <path d="M0,606 H1400"/>
+    <path d="M0,662 H1400"/>
+    <path d="M0,726 H1400"/>
+    <path d="M700,520 L-140,788"/>
+    <path d="M700,520 L120,788"/>
+    <path d="M700,520 L380,788"/>
+    <path d="M700,520 L700,788"/>
+    <path d="M700,520 L1020,788"/>
+    <path d="M700,520 L1280,788"/>
+    <path d="M700,520 L1540,788"/>
+  </g>
+
+  <!-- 와이어프레임 큐브 (아이소메트릭) -->
+  <g transform="translate(340,300)">
+    <path d="M0,-120 L104,-60 L104,60 L0,120 L-104,60 L-104,-60 Z" fill="url(#faceFill)"/>
+    <g stroke="#5eead4" stroke-opacity="0.85" stroke-width="2.2" fill="none" stroke-linejoin="round">
+      <path d="M0,-120 L104,-60 L104,60 L0,120 L-104,60 L-104,-60 Z"/>
+      <path d="M0,-120 L0,0 M0,0 L104,60 M0,0 L-104,60"/>
+    </g>
+    <g fill="#ccfbf1">
+      <circle cx="0" cy="-120" r="5.5"/><circle cx="104" cy="-60" r="5.5"/>
+      <circle cx="104" cy="60" r="5.5"/><circle cx="0" cy="120" r="5.5"/>
+      <circle cx="-104" cy="60" r="5.5"/><circle cx="-104" cy="-60" r="5.5"/>
+      <circle cx="0" cy="0" r="5"/>
+    </g>
+  </g>
+
+  <!-- 로우폴리 구체 와이어프레임 -->
+  <g transform="translate(1010,330)" fill="none" stroke="#fdba74" stroke-opacity="0.7" stroke-width="1.8">
+    <circle cx="0" cy="0" r="128"/>
+    <ellipse cx="0" cy="0" rx="128" ry="44"/>
+    <ellipse cx="0" cy="0" rx="128" ry="88"/>
+    <ellipse cx="0" cy="0" rx="44" ry="128"/>
+    <ellipse cx="0" cy="0" rx="88" ry="128"/>
+  </g>
+
+  <!-- 트랜스폼 기즈모 (X/Y/Z 축) -->
+  <g transform="translate(690,565)" stroke-width="4" stroke-linecap="round">
+    <path d="M0,0 L118,44" stroke="#f87171"/>
+    <path d="M0,0 L-112,52" stroke="#4ade80"/>
+    <path d="M0,0 L0,-124" stroke="#60a5fa"/>
+    <circle cx="0" cy="0" r="7.5" fill="#e2e8f0" stroke="none"/>
+    <g stroke="none">
+      <circle cx="118" cy="44" r="6" fill="#f87171"/>
+      <circle cx="-112" cy="52" r="6" fill="#4ade80"/>
+      <circle cx="0" cy="-124" r="6" fill="#60a5fa"/>
+    </g>
+  </g>
+
+  <!-- 정점 편집 모티프 -->
+  <g fill="#fef3c7" opacity="0.75">
+    <rect x="186" y="612" width="9" height="9"/>
+    <rect x="246" y="586" width="9" height="9"/>
+    <rect x="306" y="620" width="9" height="9"/>
+    <rect x="1188" y="592" width="9" height="9"/>
+    <rect x="1248" y="624" width="9" height="9"/>
+  </g>
+</svg>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 788" width="1400" height="788">
+  <!-- 쿠팡파트너스(상품 비교) 섹션 히어로.
+       ai-engineer-hero.svg와 같은 문법. 상품 비교라는 성격에 맞춰
+       장바구니 · 가격표 · 박스 · 비교 저울 모티프를 쓴다.
+       페이지에서 rgba(0,0,0,0.55) 오버레이가 덮이므로 형태는 밝게 유지한다. -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0b0e"/>
+      <stop offset="50%" stop-color="#2a1116"/>
+      <stop offset="100%" stop-color="#141b2c"/>
+    </linearGradient>
+    <radialGradient id="glowRed" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowAmber" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="boxFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fca5a5" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#fcd34d" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="788" fill="url(#bg)"/>
+  <circle cx="290" cy="230" r="360" fill="url(#glowRed)"/>
+  <circle cx="1130" cy="580" r="340" fill="url(#glowAmber)"/>
+
+  <!-- 옅은 격자 -->
+  <g stroke="#ffffff" stroke-opacity="0.05" stroke-width="1">
+    <path d="M0,657 H1400"/><path d="M0,526 H1400"/><path d="M0,394 H1400"/>
+    <path d="M0,263 H1400"/><path d="M0,131 H1400"/>
+    <path d="M200,0 V788"/><path d="M400,0 V788"/><path d="M600,0 V788"/>
+    <path d="M800,0 V788"/><path d="M1000,0 V788"/><path d="M1200,0 V788"/>
+  </g>
+
+  <!-- 장바구니 -->
+  <g transform="translate(300,300)" fill="none" stroke="#fca5a5" stroke-width="6"
+     stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-96,-84 L-52,-84 L-6,84 L150,84" />
+    <path d="M-34,-30 L182,-30 L156,54 L-10,54 Z" fill="url(#boxFill)"/>
+    <circle cx="16" cy="132" r="20"/>
+    <circle cx="136" cy="132" r="20"/>
+  </g>
+
+  <!-- 비교 저울 (좌우 상품 비교) -->
+  <g transform="translate(700,268)" stroke="#fcd34d" stroke-width="5"
+     stroke-linecap="round" fill="none" opacity="0.9">
+    <path d="M0,-96 L0,150"/>
+    <path d="M-150,-72 L150,-72"/>
+    <path d="M-150,-72 L-192,10 L-108,10 Z" fill="rgba(252,211,77,0.14)"/>
+    <path d="M150,-72 L108,10 L192,10 Z" fill="rgba(252,211,77,0.14)"/>
+    <path d="M-58,150 L58,150"/>
+    <circle cx="0" cy="-96" r="9" fill="#fef3c7" stroke="none"/>
+  </g>
+
+  <!-- 가격표 -->
+  <g transform="translate(1080,300)">
+    <g transform="rotate(-14)">
+      <path d="M0,0 L128,0 L188,58 L128,116 L0,116 Z" fill="url(#boxFill)"
+            stroke="#fbbf24" stroke-width="4.5" stroke-linejoin="round"/>
+      <circle cx="150" cy="58" r="11" fill="none" stroke="#fbbf24" stroke-width="4.5"/>
+      <g stroke="#fde68a" stroke-width="5" stroke-linecap="round" opacity="0.85">
+        <path d="M30,38 H98"/>
+        <path d="M30,74 H74"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- 박스들 -->
+  <g transform="translate(1090,600)" fill="url(#boxFill)" stroke="#fca5a5"
+     stroke-width="4" stroke-linejoin="round">
+    <path d="M-160,-40 L-80,-70 L0,-40 L0,44 L-80,74 L-160,44 Z"/>
+    <path d="M-80,-70 L-80,44" fill="none" stroke-opacity="0.6"/>
+    <path d="M20,-16 L76,-38 L132,-16 L132,44 L76,66 L20,44 Z"/>
+  </g>
+
+  <!-- 체크 표시 -->
+  <g transform="translate(300,600)" stroke="#86efac" stroke-width="7"
+     stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.85">
+    <circle cx="0" cy="0" r="44" stroke-opacity="0.55" stroke-width="4.5"/>
+    <path d="M-20,2 L-5,18 L22,-16"/>
+  </g>
+</svg>

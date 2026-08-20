@@ -7,6 +7,8 @@
 {{- else if eq .Section "camera" }}{{ $sectionHero = "camera-hero.jpg" }}
 {{- else if eq .Section "claude" }}{{ $sectionHero = "claude-hero.jpg" }}
 {{- else if eq .Section "ai-engineer" }}{{ $sectionHero = "ai-engineer-hero.svg" }}
+{{- else if eq .Section "unity" }}{{ $sectionHero = "unity-hero.svg" }}
+{{- else if eq .Section "coupang" }}{{ $sectionHero = "coupang-hero.svg" }}
 {{- end }}
 
 {{- if and $sectionHero (eq .Kind "section") }}
