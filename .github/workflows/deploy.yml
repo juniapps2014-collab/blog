@@ -43,7 +43,11 @@ jobs:
           HUGO_ENVIRONMENT: production
         working-directory: hugo-site
         run: |
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+          # baseURL은 hugo.toml을 단일 기준으로 쓴다.
+          # steps.pages.outputs.base_url은 Pages의 Enforce HTTPS가 꺼져 있으면
+          # http:// 로 내려와, 파비콘 등 absURL 자산이 혼합 콘텐츠로 차단되고
+          # canonical·sitemap까지 전부 http:// 가 된다.
+          hugo --minify
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
