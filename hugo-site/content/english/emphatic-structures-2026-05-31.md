@@ -4,6 +4,9 @@ date: 2026-05-31
 categories: ["english"]
 tags: ["english"]
 robotsNoIndex: true
+# noindex 글을 sitemap에 남기면 색인 신호가 모순되므로 함께 제외한다
+sitemap:
+  disable: true
 ---
 
 

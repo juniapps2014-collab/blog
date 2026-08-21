@@ -2,6 +2,9 @@
 title: "\"Wish\" + 과거시제 — 현재 상황에 대한 아쉬움 표현하기"
 date: 2026-06-30
 robotsNoIndex: true
+# noindex 글을 sitemap에 남기면 색인 신호가 모순되므로 함께 제외한다
+sitemap:
+  disable: true
 categories: ["english"]
 tags: ["grammar", "english"]
 ---
