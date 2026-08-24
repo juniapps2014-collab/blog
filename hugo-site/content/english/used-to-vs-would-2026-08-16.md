@@ -1,6 +1,9 @@
 ---
 title: "Used to랑 Would, 둘 다 과거 얘기인데 뭐가 다를까"
 date: 2026-08-16
+# 날짜 정정(08-17 → 08-16) 전 URL. 제거하면 해당 주소가 다시 404가 된다.
+aliases:
+  - /english/used-to-vs-would-2026-08-17/
 categories: ["english"]
 tags: ["grammar", "english"]
 ---

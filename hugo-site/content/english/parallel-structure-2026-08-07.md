@@ -1,6 +1,10 @@
 ---
 title: "Parallel Structure (병렬구조) — 같은 형태로 짝을 맞추는 기술"
 date: 2026-08-07
+# 파일명 체계 개편 전 URL. 제거하면 해당 주소가 다시 404가 되고
+# 그동안 쌓인 색인 신호를 잃는다.
+aliases:
+  - /english/2026-08-07-daily-english/
 categories: ["english"]
 tags: ["grammar", "english"]
 ---

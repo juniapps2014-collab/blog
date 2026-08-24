@@ -1,6 +1,10 @@
 ---
 title: "Mixed Conditionals (혼합 조건문) — 과거와 현재를 넘나드는 가정법"
 date: 2026-07-22
+# 파일명 체계 개편 전 URL. 제거하면 해당 주소가 다시 404가 되고
+# 그동안 쌓인 색인 신호를 잃는다.
+aliases:
+  - /english/2026-07-22-daily-english/
 categories: ["english"]
 tags: ["grammar", "english"]
 ---

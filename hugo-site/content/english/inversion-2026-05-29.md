@@ -1,6 +1,10 @@
 ---
 title: "도치 (Inversion) — 강조를 위한 주어·동사 어순 뒤집기"
 date: 2026-05-29
+# 파일명 체계 개편 전 URL. 제거하면 해당 주소가 다시 404가 되고
+# 그동안 쌓인 색인 신호를 잃는다.
+aliases:
+  - /english/daily-english-2026-05-29/
 categories: ["english"]
 tags: ["english"]
 robotsNoIndex: true

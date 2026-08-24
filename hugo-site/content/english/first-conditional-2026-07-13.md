@@ -1,6 +1,10 @@
 ---
 title: "First Conditional (1형식 조건문) — 실현 가능한 미래 표현하기"
 date: 2026-07-13
+# 파일명 체계 개편 전 URL. 제거하면 해당 주소가 다시 404가 되고
+# 그동안 쌓인 색인 신호를 잃는다.
+aliases:
+  - /english/2026-07-13-daily-english/
 categories: ["english"]
 tags: ["grammar", "english"]
 ---

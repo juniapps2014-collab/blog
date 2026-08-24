@@ -1,6 +1,10 @@
 ---
 title: "Hedging Language (완곡 표현) — seem to / tend to / would say로 부드럽게 말하기"
 date: 2026-08-13
+# 파일명 체계 개편 전 URL. 제거하면 해당 주소가 다시 404가 되고
+# 그동안 쌓인 색인 신호를 잃는다.
+aliases:
+  - /english/2026-08-13-daily-english/
 categories: ["english"]
 tags: ["grammar", "english"]
 ---
