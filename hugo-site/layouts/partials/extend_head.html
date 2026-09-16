@@ -95,3 +95,20 @@
 @media (max-width: 680px) { .section-archive ol { columns: 1; } }
 </style>
 {{- end }}
+
+{{- /* 함께 읽기 블록 스타일 */ -}}
+{{- if and .IsPage (in site.Params.mainSections .Section) }}
+<style>
+.read-together { margin: 2.5rem 0 0; padding-top: 1.5rem; border-top: 1px solid var(--border); }
+.read-together h2 { font-size: 1.05rem; margin: 0 0 1rem; color: var(--secondary); font-weight: 600; }
+.read-together .rt-group { margin-bottom: 1.1rem; }
+.read-together h3 { font-size: .85rem; margin: 0 0 .4rem; color: var(--secondary); opacity: .75; font-weight: 500; }
+.read-together ul { margin: 0; padding-left: 1.2rem; }
+.read-together li { margin: .3rem 0; font-size: .92rem; }
+.read-together a { color: var(--content); text-decoration: none; }
+.read-together a:hover { text-decoration: underline; }
+.read-together time { font-size: .82em; opacity: .55; margin-left: .35rem; white-space: nowrap; }
+.read-together .rt-all { margin: .8rem 0 0; font-size: .9rem; }
+.read-together .rt-all a { color: var(--primary); }
+</style>
+{{- end }}
