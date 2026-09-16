@@ -119,6 +119,31 @@
 </footer>
 {{- end }}
 
+{{- /* --- 전체 회차 목록 ---
+  섹션 랜딩은 10편씩 페이지네이션되어, 뒷 회차가 크롤러 기준 여러 단계 깊이에 묻힌다.
+  (예: unity 48편 중 1페이지에 10편) 시리즈 전체 링크를 한 곳에 노출해
+  크롤링 깊이를 줄이고 AI가 커리큘럼 구조를 한 번에 파악하게 한다.
+*/ -}}
+{{- if and .IsSection (in site.Params.mainSections .Section) }}
+{{- $all := where site.RegularPages "Section" .Section }}
+{{- $weighted := where $all "Weight" "!=" 0 }}
+{{- if and (gt (len $all) 0) (eq (len $weighted) (len $all)) }}
+  {{- $all = sort $all "Weight" }}
+{{- else }}
+  {{- $all = sort $all "Date" }}
+{{- end }}
+{{- if gt (len $all) (len $paginator.Pages) }}
+<section class="section-archive">
+  <h2>전체 회차 <span class="count">{{ len $all }}편</span></h2>
+  <ol>
+    {{- range $all }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{- end }}
+  </ol>
+</section>
+{{- end }}
+{{- end }}
+
 {{- end }}{{/* end profileMode */}}
 
 {{- end }}{{- /* end main */ -}}

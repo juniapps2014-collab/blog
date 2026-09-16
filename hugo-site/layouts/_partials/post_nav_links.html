@@ -1,0 +1,38 @@
+{{- /*
+  테마 기본 구현은 mainSections 전체를 날짜순 한 줄로 묶어, 병렬로 연재되는
+  커리큘럼 5개가 서로 섞인다(예: unity day-02 → claude day-01).
+  같은 섹션 안에서 회차 순서로만 이어지도록 교체한다.
+  unity·claude·ai-engineer는 weight(Day 번호)를, weight가 없는
+  camera·english는 날짜를 정렬 기준으로 쓴다.
+*/ -}}
+{{- $pages := where site.RegularPages "Section" .Section }}
+{{- $weighted := where $pages "Weight" "!=" 0 }}
+{{- if and (gt (len $pages) 0) (eq (len $weighted) (len $pages)) }}
+  {{- $pages = sort $pages "Weight" }}
+{{- else }}
+  {{- $pages = sort $pages "Date" }}
+{{- end }}
+{{- $cur := -1 }}
+{{- range $i, $p := $pages }}
+  {{- if eq $p.RelPermalink $.RelPermalink }}{{ $cur = $i }}{{ end }}
+{{- end }}
+{{- if ge $cur 0 }}
+{{- $prev := false }}{{ if gt $cur 0 }}{{ $prev = index $pages (sub $cur 1) }}{{ end }}
+{{- $next := false }}{{ if lt $cur (sub (len $pages) 1) }}{{ $next = index $pages (add $cur 1) }}{{ end }}
+{{- if or $prev $next }}
+<nav class="paginav">
+  {{- with $prev }}
+  <a class="prev" href="{{ .Permalink }}" rel="prev">
+    <span class="title">« {{ i18n "prev_page" | default "이전" }}</span>
+    <span>{{ .Title }}</span>
+  </a>
+  {{- end }}
+  {{- with $next }}
+  <a class="next" href="{{ .Permalink }}" rel="next">
+    <span class="title">{{ i18n "next_page" | default "다음" }} »</span>
+    <span>{{ .Title }}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }}
+{{- end }}

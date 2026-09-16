@@ -30,6 +30,10 @@ pagerSize = 10
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
+  # 테마의 post_nav_links.html이 이 목록으로 이전/다음 글을 찾는다.
+  # 미설정 시 항상 빈 결과가 되어 Day 회차 간 내비게이션이 렌더되지 않았다.
+  # coupang은 색인 제외 대상이라 회차 흐름에서 뺀다.
+  mainSections = ["english", "unity", "camera", "claude", "ai-engineer"]
 
 # PaperMod는 이 값들이 없으면 favicon.ico 등 기본 파일명으로 링크를 내보내는데,
 # 해당 파일이 static/에 없어 5건이 404였다. .ico 대신 기존 favicon.svg를 쓴다.

@@ -48,3 +48,50 @@
 }
 </style>
 {{- end }}
+
+{{- /* --- 섹션 랜딩에 ItemList 구조화 데이터 ---
+  커리큘럼 섹션은 Day 01~N이 하나의 시리즈인데, 랜딩에는 10편씩 페이지네이션되어
+  검색엔진·AI가 전체 구조를 한 번에 파악하지 못한다. 전 회차를 순서대로 명시한다.
+*/ -}}
+{{- if and (eq .Kind "section") (in site.Params.mainSections .Section) }}
+{{- $pages := where site.RegularPages "Section" .Section }}
+{{- $weighted := where $pages "Weight" "!=" 0 }}
+{{- if and (gt (len $pages) 0) (eq (len $weighted) (len $pages)) }}
+  {{- $pages = sort $pages "Weight" }}
+{{- else }}
+  {{- $pages = sort $pages "Date" }}
+{{- end }}
+{{- $items := slice }}
+{{- range $i, $p := $pages }}
+  {{- $items = $items | append (dict "@type" "ListItem" "position" (add $i 1) "name" $p.Title "url" $p.Permalink) }}
+{{- end }}
+{{- if gt (len $pages) 0 }}
+<script type="application/ld+json">
+{{- dict
+  "@context" "https://schema.org"
+  "@type" "ItemList"
+  "name" .Title
+  "description" (.Description | plainify)
+  "url" .Permalink
+  "inLanguage" "ko"
+  "numberOfItems" (len $pages)
+  "itemListOrder" "https://schema.org/ItemListOrderAscending"
+  "itemListElement" $items
+  | jsonify | safeJS -}}
+</script>
+{{- end }}
+{{- end }}
+
+{{- /* 전체 회차 목록 스타일 */ -}}
+{{- if and (eq .Kind "section") (in site.Params.mainSections .Section) }}
+<style>
+.section-archive { margin: 2.5rem 0 1rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
+.section-archive h2 { font-size: 1.05rem; margin: 0 0 .75rem; color: var(--secondary); font-weight: 600; }
+.section-archive h2 .count { font-weight: 400; opacity: .7; font-size: .9em; }
+.section-archive ol { margin: 0; padding-left: 1.4rem; columns: 2; column-gap: 2rem; }
+.section-archive li { margin: .3rem 0; break-inside: avoid; font-size: .92rem; }
+.section-archive a { color: var(--content); text-decoration: none; }
+.section-archive a:hover { text-decoration: underline; }
+@media (max-width: 680px) { .section-archive ol { columns: 1; } }
+</style>
+{{- end }}
