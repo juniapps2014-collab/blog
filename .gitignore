@@ -12,3 +12,6 @@ coupang_key/
 # 로컬 전용 운영 메모
 NOTES.local.md
 .claude/settings.local.json
+
+# Claude Code 로컬 설정 — 생성기 실행 흔적이라 공유 대상이 아니다
+scripts/.claude/
