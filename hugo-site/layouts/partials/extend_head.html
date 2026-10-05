@@ -8,7 +8,7 @@
 {{- else if eq .Section "claude" }}{{ $sectionHero = "claude-hero.jpg" }}
 {{- else if eq .Section "ai-engineer" }}{{ $sectionHero = "ai-engineer-hero.svg" }}
 {{- else if eq .Section "unity" }}{{ $sectionHero = "unity-hero.svg" }}
-{{- else if eq .Section "coupang" }}{{ $sectionHero = "coupang-hero.svg" }}
+{{- else if eq .Section "coupang" }}{{ $sectionHero = "coupang-hero.png" }}
 {{- end }}
 
 {{- if and $sectionHero (eq .Kind "section") }}
@@ -46,6 +46,29 @@
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
     margin-top: 0.5rem;
 }
+{{- if eq .Section "coupang" }}
+/* 쿠팡 배너는 제목·태그라인이 이미 이미지에 인쇄돼 있다.
+   어두운 오버레이와 h1을 그대로 두면 같은 문구가 겹쳐 보이므로,
+   오버레이를 끄고 텍스트는 시각적으로만 숨긴다(스크린리더·SEO에는 유지). */
+.page-header {
+    background-size: contain;          /* 배너 문구가 잘리지 않게 */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #08234E;         /* 배너 여백과 동일한 남색 */
+    aspect-ratio: 1800 / 1012;
+    padding: 0;
+}
+.page-header::before { display: none; }
+.page-header h1,
+.page-header .post-description {
+    position: absolute;
+    width: 1px; height: 1px;
+    margin: -1px; padding: 0;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+}
+{{- end }}
 </style>
 {{- end }}
 

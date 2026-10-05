@@ -1,6 +1,6 @@
 baseURL = "https://daylogs.me/"
 locale = "ko"
-title = "매일 한 가지"
+title = "매일한템"
 theme = "PaperMod"
 defaultContentLanguage = "ko"
 hasCJKLanguage = true
@@ -23,7 +23,7 @@ pagerSize = 10
 
 [params]
   author = "Yongjun Choi"
-  description = "매일 조금씩 배우는 학습 블로그 — Claude·AI 엔지니어링, Unity 게임 개발, 영어, 카메라 강좌"
+  description = "생활을 바꾸는 발견 — 매일 한 가지 쿠팡 상품 가이드, 그리고 영어·Unity·AI 학습 기록"
   defaultTheme = "dark"
   ShowReadingTime = true
   ShowPostNavLinks = true
@@ -35,6 +35,12 @@ pagerSize = 10
   # coupang은 색인 제외 대상이라 회차 흐름에서 뺀다.
   mainSections = ["english", "unity", "camera", "claude", "ai-engineer"]
 
+# 헤더 로고. 테마 header.html이 resources.Get 으로 읽으므로 static/ 이 아니라 assets/ 에 둔다.
+[params.label]
+  text = "매일한템"
+  icon = "images/profile.png"
+  iconHeight = 32
+
 # PaperMod는 이 값들이 없으면 favicon.ico 등 기본 파일명으로 링크를 내보내는데,
 # 해당 파일이 static/에 없어 5건이 404였다. .ico 대신 기존 favicon.svg를 쓴다.
 [params.assets]
@@ -45,8 +51,8 @@ pagerSize = 10
   safari_pinned_tab = "safari-pinned-tab.svg"
 
 [params.homeInfoParams]
-  Title = "매일 한 가지"
-  Content = "매일 조금씩 — Claude·AI 엔지니어링, Unity 게임 개발, 영어, 카메라 학습 기록"
+  Title = "매일한템"
+  Content = "생활을 바꾸는 발견 · 쿠팡 상품 가이드 — 그리고 매일 쌓아가는 영어·Unity·AI 학습 기록"
 
 [menu]
   [[menu.main]]
