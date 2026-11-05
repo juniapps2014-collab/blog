@@ -55,7 +55,9 @@
     background-repeat: no-repeat;
     background-position: center;
     background-color: #08234E;         /* 배너 여백과 동일한 남색 */
-    aspect-ratio: 1800 / 1012;
+    /* 배너의 위아래 빈 여백을 잘라내 다른 섹션 헤더와 높이를 맞춘다.
+       다른 섹션 헤더는 본문 폭 960px에서 229px이고, 430/1800 * 960 ≈ 229px. */
+    aspect-ratio: 1800 / 430;
     padding: 0;
 }
 .page-header::before { display: none; }

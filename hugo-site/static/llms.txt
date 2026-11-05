@@ -1,4 +1,4 @@
-# 매일한템 (daylogs.me)
+# 매일핫템 (blog.daylogs.me)
 
 > 생활을 바꾸는 발견. 매일 쿠팡에서 한 가지 상품을 골라 비교·추천하고,
 > 함께 영어 문법, Unity 게임 개발과 Blender 3D 모델링, Claude·LLM 활용,
@@ -9,22 +9,22 @@
 
 ## 섹션
 
-- [매일한템 (쿠팡 상품 가이드)](https://daylogs.me/coupang/) — 매일 한 가지 상품을 골라
+- [매일핫템 (쿠팡 상품 가이드)](https://blog.daylogs.me/coupang/) — 매일 한 가지 상품을 골라
   5종 비교, 선택 기준, 실사용 팁을 정리한다. 쿠팡파트너스 제휴 링크를 포함하며 각 글에 고지한다.
-- [English](https://daylogs.me/english/) — 영문법 개념 정리와 미국식 표현·구동사.
+- [English](https://blog.daylogs.me/english/) — 영문법 개념 정리와 미국식 표현·구동사.
   가정법, 관계사, 분사구문, 화법 전환 등 항목별 설명과 예문 중심.
-- [유니티 강좌](https://daylogs.me/unity/) — Unity 엔진 + Blender 3D 모델링 60일 커리큘럼(완결).
+- [유니티 강좌](https://blog.daylogs.me/unity/) — Unity 엔진 + Blender 3D 모델링 60일 커리큘럼(완결).
   에디터 기초, 물리·UI·애니메이션, FBX 임포트 파이프라인, URP·셰이더, 최적화.
-- [AI 엔지니어](https://daylogs.me/ai-engineer/) — Python·Docker·GPU 기초, Local LLM(Ollama·vLLM),
+- [AI 엔지니어](https://blog.daylogs.me/ai-engineer/) — Python·Docker·GPU 기초, Local LLM(Ollama·vLLM),
   LangGraph, MCP, RAG, FastAPI, 파인튜닝, 배포.
-- [Claude 사용법](https://daylogs.me/claude/) — 프롬프트 작성 기초부터 프롬프트 엔지니어링,
+- [Claude 사용법](https://blog.daylogs.me/claude/) — 프롬프트 작성 기초부터 프롬프트 엔지니어링,
   Anthropic API, 에이전트 설계.
-- [Camera](https://daylogs.me/camera/) — 소니 미러리스 기준. 노출 3요소, 측광, 수동 모드 실습,
+- [Camera](https://blog.daylogs.me/camera/) — 소니 미러리스 기준. 노출 3요소, 측광, 수동 모드 실습,
   존 시스템과 노출 계획.
 
 ## 리소스
 
-- [전체 글 목록 (sitemap)](https://daylogs.me/sitemap.xml)
-- [RSS 피드](https://daylogs.me/index.xml)
-- [소개](https://daylogs.me/about/)
-- [개인정보처리방침](https://daylogs.me/privacy/)
+- [전체 글 목록 (sitemap)](https://blog.daylogs.me/sitemap.xml)
+- [RSS 피드](https://blog.daylogs.me/index.xml)
+- [소개](https://blog.daylogs.me/about/)
+- [개인정보처리방침](https://blog.daylogs.me/privacy/)

@@ -1,6 +1,6 @@
 baseURL = "https://blog.daylogs.me/"
 locale = "ko"
-title = "매일한템"
+title = "매일핫템"
 theme = "PaperMod"
 defaultContentLanguage = "ko"
 hasCJKLanguage = true
@@ -37,7 +37,7 @@ pagerSize = 10
 
 # 헤더 로고. 테마 header.html이 resources.Get 으로 읽으므로 static/ 이 아니라 assets/ 에 둔다.
 [params.label]
-  text = "매일한템"
+  text = "매일핫템"
   icon = "images/profile.png"
   iconHeight = 32
 
@@ -51,7 +51,7 @@ pagerSize = 10
   safari_pinned_tab = "safari-pinned-tab.svg"
 
 [params.homeInfoParams]
-  Title = "매일한템"
+  Title = "매일핫템"
   Content = "생활을 바꾸는 발견 · 쿠팡 상품 가이드 — 그리고 매일 쌓아가는 영어·Unity·AI 학습 기록"
 
 [menu]
