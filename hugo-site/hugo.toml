@@ -33,7 +33,7 @@ pagerSize = 10
   # 테마의 post_nav_links.html이 이 목록으로 이전/다음 글을 찾는다.
   # 미설정 시 항상 빈 결과가 되어 Day 회차 간 내비게이션이 렌더되지 않았다.
   # coupang은 색인 제외 대상이라 회차 흐름에서 뺀다.
-  mainSections = ["english", "unity", "camera", "claude", "ai-engineer"]
+  mainSections = ["english", "unity", "camera", "claude", "ai-engineer", "digital-twin"]
 
 # 헤더 로고. 테마 header.html이 resources.Get 으로 읽으므로 static/ 이 아니라 assets/ 에 둔다.
 [params.label]
@@ -81,10 +81,15 @@ pagerSize = 10
     url = "/ai-engineer/"
     weight = 27
   [[menu.main]]
+    identifier = "digital-twin"
+    name = "디지털 트윈"
+    url = "/digital-twin/"
+    weight = 28
+  [[menu.main]]
     identifier = "coupang"
     name = "쿠팡파트너스"
     url = "/coupang/"
-    weight = 28
+    weight = 29
   [[menu.main]]
     identifier = "tags"
     name = "Tags"

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 788" width="1400" height="788">
+  <!-- 디지털 트윈 섹션 히어로. ai-engineer-hero.svg와 같은 문법.
+       왼쪽은 현실의 설비(채워진 형태), 오른쪽은 같은 형상의 가상 복제(와이어프레임),
+       가운데 데이터 스트림이 둘을 동기화한다는 모티프.
+       페이지에서 rgba(0,0,0,0.55) 오버레이가 덮이므로 형태는 밝게 유지한다. -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07121f"/>
+      <stop offset="50%" stop-color="#0c1c33"/>
+      <stop offset="100%" stop-color="#102a43"/>
+    </linearGradient>
+    <radialGradient id="glowTeal" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="solidFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7dd3fc" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="788" fill="url(#bg)"/>
+  <circle cx="300" cy="300" r="340" fill="url(#glowTeal)"/>
+  <circle cx="1120" cy="520" r="360" fill="url(#glowBlue)"/>
+
+  <!-- 옅은 격자 -->
+  <g stroke="#ffffff" stroke-opacity="0.05" stroke-width="1">
+    <path d="M0,657 H1400"/><path d="M0,526 H1400"/><path d="M0,394 H1400"/>
+    <path d="M0,263 H1400"/><path d="M0,131 H1400"/>
+    <path d="M175,0 V788"/><path d="M350,0 V788"/><path d="M525,0 V788"/>
+    <path d="M700,0 V788"/><path d="M875,0 V788"/><path d="M1050,0 V788"/>
+    <path d="M1225,0 V788"/>
+  </g>
+
+  <!-- 왼쪽: 현실 설비 (면이 채워진 아이소메트릭 박스 + 탱크 + 암) -->
+  <g transform="translate(150,250)">
+    <g fill="url(#solidFill)" stroke="#7dd3fc" stroke-width="3" stroke-linejoin="round">
+      <path d="M60,160 L220,70 L380,160 L380,330 L220,420 L60,330 Z"/>
+      <path d="M60,160 L220,250 L380,160" fill="none"/>
+      <path d="M220,250 L220,420" fill="none"/>
+    </g>
+    <g fill="none" stroke="#5eead4" stroke-width="3" stroke-linecap="round">
+      <path d="M150,110 L150,40 L250,10"/>
+      <circle cx="150" cy="40" r="10" fill="#5eead4"/>
+      <circle cx="250" cy="10" r="14"/>
+    </g>
+  </g>
+
+  <!-- 오른쪽: 가상 트윈 (같은 형상의 와이어프레임) -->
+  <g transform="translate(870,250)" opacity="0.95">
+    <g fill="none" stroke="#a5b4fc" stroke-width="2.4" stroke-linejoin="round" stroke-dasharray="14 9">
+      <path d="M60,160 L220,70 L380,160 L380,330 L220,420 L60,330 Z"/>
+      <path d="M60,160 L220,250 L380,160"/>
+      <path d="M220,250 L220,420"/>
+    </g>
+    <g fill="none" stroke="#c7d2fe" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="10 7">
+      <path d="M150,110 L150,40 L250,10"/>
+      <circle cx="150" cy="40" r="10"/>
+      <circle cx="250" cy="10" r="14"/>
+    </g>
+    <!-- 정점 표시 -->
+    <g fill="#e0e7ff">
+      <circle cx="60" cy="160" r="5"/><circle cx="220" cy="70" r="5"/>
+      <circle cx="380" cy="160" r="5"/><circle cx="380" cy="330" r="5"/>
+      <circle cx="220" cy="420" r="5"/><circle cx="60" cy="330" r="5"/>
+      <circle cx="220" cy="250" r="5"/>
+    </g>
+  </g>
+
+  <!-- 가운데: 양방향 데이터 스트림 -->
+  <g stroke="#38bdf8" stroke-opacity="0.6" stroke-width="2.6" fill="none" stroke-linecap="round">
+    <path d="M580,370 C660,320 760,320 840,370"/>
+    <path d="M580,470 C660,520 760,520 840,470"/>
+  </g>
+  <g fill="#7dd3fc">
+    <circle cx="630" cy="344" r="7"/><circle cx="700" cy="332" r="7"/><circle cx="770" cy="341" r="7"/>
+    <circle cx="630" cy="496" r="7"/><circle cx="700" cy="508" r="7"/><circle cx="770" cy="499" r="7"/>
+  </g>
+  <!-- 화살촉 -->
+  <g fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M824,360 L842,370 L824,382"/>
+    <path d="M596,458 L578,470 L596,480"/>
+  </g>
+
+  <!-- 센서 신호 모티프 -->
+  <g transform="translate(110,640)" opacity="0.55" fill="none" stroke="#5eead4" stroke-width="3" stroke-linecap="round">
+    <path d="M0,30 L24,30 L36,0 L52,60 L68,16 L80,30 L110,30"/>
+  </g>
+</svg>
