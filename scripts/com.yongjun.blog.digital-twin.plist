@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  디지털 트윈 매일 작성 — launchd 설정
+  설치:
+    cp scripts/com.yongjun.blog.digital-twin.plist ~/Library/LaunchAgents/
+    launchctl load ~/Library/LaunchAgents/com.yongjun.blog.digital-twin.plist
+  해제:
+    launchctl unload ~/Library/LaunchAgents/com.yongjun.blog.digital-twin.plist
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.yongjun.blog.digital-twin</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/yongjun.choi/WorkSpace/Personal/Blog/scripts/digital-twin-daily.sh</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>7</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/yongjun.choi/WorkSpace/Personal/Blog</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/homebrew/bin:/Users/yongjun.choi/.local/bin</string>
+        <key>HOME</key>
+        <string>/Users/yongjun.choi</string>
+        <!-- claude CLI가 키체인에서 로그인 정보를 찾을 때 USER가 필요하다.
+             없으면 "Not logged in · Please run /login"으로 끝난다. -->
+        <key>USER</key>
+        <string>yongjun.choi</string>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Users/yongjun.choi/WorkSpace/Personal/Blog/scripts/digital-twin-daily.launchd.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/yongjun.choi/WorkSpace/Personal/Blog/scripts/digital-twin-daily.launchd.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
